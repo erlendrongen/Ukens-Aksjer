@@ -1,0 +1,481 @@
+symbol,name,kurs_inn,date,selskap,endring,GCS_Path
+AKRBP.OL,Aker BP ASA,309.37,2023-10-09 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA231009.pdf
+BORR.OL,Borr Drilling Ltd,78.44,2023-10-09 06:00:00.000000 UTC,Borr Drilling,0,gs://ukens_aksjer/clean_AA231009.pdf
+EQNR.OL,Equinor ASA,353.4,2023-10-09 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA231009.pdf
+EPR.OL,Europris ASA,60.52,2023-10-09 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA231009.pdf
+LSG.OL,Leroy Seafood Group ASA,45.8,2023-10-09 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA231009.pdf
+MOWI.OL,Mowi ASA,167.13,2023-10-09 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA231009.pdf
+SATS.OL,Sats ASA,12.23,2023-10-09 06:00:00.000000 UTC,SATS,0,gs://ukens_aksjer/clean_AA231009.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-10-09 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA231009.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-10-02 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA231002.pdf
+BORR.OL,Borr Drilling Ltd,78.44,2023-10-02 06:00:00.000000 UTC,Borr Drilling,0,gs://ukens_aksjer/clean_AA231002.pdf
+EQNR.OL,Equinor ASA,353.4,2023-10-02 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA231002.pdf
+LSG.OL,Leroy Seafood Group ASA,45.8,2023-10-02 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA231002.pdf
+MOWI.OL,Mowi ASA,167.13,2023-10-02 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA231002.pdf
+ORK.OL,Orkla ASA,76.95,2023-10-02 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA231002.pdf
+SATS.OL,Sats ASA,12.23,2023-10-02 06:00:00.000000 UTC,SATS,0,gs://ukens_aksjer/clean_AA231002.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-10-02 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA231002.pdf
+SNI.OL,Stolt-Nielsen Limited,285.71,2023-10-02 06:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA231002.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-09-25 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230925.pdf
+BORR.OL,Borr Drilling Ltd,78.44,2023-09-25 06:00:00.000000 UTC,Borr Drilling,0,gs://ukens_aksjer/clean_AA230925.pdf
+EQNR.OL,Equinor ASA,353.4,2023-09-25 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230925.pdf
+LSG.OL,Leroy Seafood Group ASA,45.8,2023-09-25 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230925.pdf
+MOWI.OL,Mowi ASA,167.13,2023-09-25 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230925.pdf
+ORK.OL,Orkla ASA,76.95,2023-09-25 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230925.pdf
+SATS.OL,Sats ASA,12.23,2023-09-25 06:00:00.000000 UTC,SATS,0,gs://ukens_aksjer/clean_AA230925.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-09-25 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230925.pdf
+SNI.OL,Stolt-Nielsen Limited,285.71,2023-09-25 06:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230925.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-09-11 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230911.pdf
+BORR.OL,Borr Drilling Ltd,78.44,2023-09-11 06:00:00.000000 UTC,Borr Drilling,0,gs://ukens_aksjer/clean_AA230911.pdf
+EQNR.OL,Equinor ASA,353.4,2023-09-11 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230911.pdf
+MOWI.OL,Mowi ASA,167.13,2023-09-11 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230911.pdf
+ORK.OL,Orkla ASA,76.95,2023-09-11 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230911.pdf
+PROT.OL,Protector Forsikring ASA,177.14,2023-09-11 06:00:00.000000 UTC,Protector,0,gs://ukens_aksjer/clean_AA230911.pdf
+SATS.OL,Sats ASA,12.23,2023-09-11 06:00:00.000000 UTC,SATS,0,gs://ukens_aksjer/clean_AA230911.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-09-11 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230911.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-09-04 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230904.pdf
+BORR.OL,Borr Drilling Ltd,,2023-09-04 06:00:00.000000 UTC,Borr Drilling,1,gs://ukens_aksjer/clean_AA230904.pdf
+EQNR.OL,Equinor ASA,353.4,2023-09-04 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230904.pdf
+FRO.OL,Frontline Ltd,177.74,2023-09-04 06:00:00.000000 UTC,Frontline,-1,gs://ukens_aksjer/clean_AA230904.pdf
+MOWI.OL,Mowi ASA,167.13,2023-09-04 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230904.pdf
+ORK.OL,Orkla ASA,76.95,2023-09-04 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230904.pdf
+PROT.OL,Protector Forsikring ASA,177.14,2023-09-04 06:00:00.000000 UTC,Protector,0,gs://ukens_aksjer/clean_AA230904.pdf
+SATS.OL,Sats ASA,,2023-09-04 06:00:00.000000 UTC,SATS,1,gs://ukens_aksjer/clean_AA230904.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-09-04 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230904.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-08-28 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230828.pdf
+EQNR.OL,Equinor ASA,353.4,2023-08-28 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230828.pdf
+FRO.OL,Frontline Ltd,177.74,2023-08-28 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA230828.pdf
+MOWI.OL,Mowi ASA,167.13,2023-08-28 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230828.pdf
+ORK.OL,Orkla ASA,76.95,2023-08-28 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230828.pdf
+PROT.OL,Protector Forsikring ASA,177.14,2023-08-28 06:00:00.000000 UTC,Protector,0,gs://ukens_aksjer/clean_AA230828.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-08-28 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230828.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-08-28 06:00:00.000000 UTC,Subsea 7,-1,gs://ukens_aksjer/clean_AA230828.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-08-21 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230821.pdf
+EQNR.OL,Equinor ASA,353.4,2023-08-21 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230821.pdf
+FRO.OL,Frontline Ltd,177.74,2023-08-21 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA230821.pdf
+MOWI.OL,Mowi ASA,167.13,2023-08-21 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230821.pdf
+ORK.OL,Orkla ASA,76.95,2023-08-21 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230821.pdf
+PROT.OL,Protector Forsikring ASA,,2023-08-21 06:00:00.000000 UTC,Protector Forsikring,1,gs://ukens_aksjer/clean_AA230821.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-08-21 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230821.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-08-21 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230821.pdf
+YAR.OL,Yara International ASA,429.38,2023-08-21 06:00:00.000000 UTC,Yara,-1,gs://ukens_aksjer/clean_AA230821.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-08-14 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230814.pdf
+EQNR.OL,Equinor ASA,353.4,2023-08-14 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230814.pdf
+FRO.OL,Frontline Ltd,177.74,2023-08-14 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA230814.pdf
+MOWI.OL,Mowi ASA,167.13,2023-08-14 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230814.pdf
+ORK.OL,Orkla ASA,76.95,2023-08-14 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230814.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-08-14 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230814.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-08-14 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230814.pdf
+YAR.OL,Yara International ASA,429.38,2023-08-14 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230814.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-08-07 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230807.pdf
+EQNR.OL,Equinor ASA,353.4,2023-08-07 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230807.pdf
+FRO.OL,Frontline Ltd,,2023-08-07 06:00:00.000000 UTC,Frontline,1,gs://ukens_aksjer/clean_AA230807.pdf
+KOG.OL,Kongsberg Gruppen ASA,469.56,2023-08-07 06:00:00.000000 UTC,Kongsberg Gruppen,-1,gs://ukens_aksjer/clean_AA230807.pdf
+MOWI.OL,Mowi ASA,167.13,2023-08-07 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230807.pdf
+ORK.OL,Orkla ASA,76.95,2023-08-07 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230807.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-08-07 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230807.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-08-07 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230807.pdf
+YAR.OL,Yara International ASA,429.38,2023-08-07 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230807.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-07-24 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230724.pdf
+EQNR.OL,Equinor ASA,353.4,2023-07-24 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230724.pdf
+KOG.OL,Kongsberg Gruppen ASA,469.56,2023-07-24 06:00:00.000000 UTC,Kongsberg Gruppen,0,gs://ukens_aksjer/clean_AA230724.pdf
+MOWI.OL,Mowi ASA,167.13,2023-07-24 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230724.pdf
+ORK.OL,Orkla ASA,76.95,2023-07-24 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230724.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-07-24 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230724.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-07-24 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230724.pdf
+YAR.OL,Yara International ASA,429.38,2023-07-24 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230724.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-07-17 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230717.pdf
+EQNR.OL,Equinor ASA,353.4,2023-07-17 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230717.pdf
+KOG.OL,Kongsberg Gruppen ASA,469.56,2023-07-17 06:00:00.000000 UTC,Kongsberg Gruppen,0,gs://ukens_aksjer/clean_AA230717.pdf
+MOWI.OL,Mowi ASA,167.13,2023-07-17 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230717.pdf
+ORK.OL,Orkla ASA,76.95,2023-07-17 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230717.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-07-17 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230717.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-07-17 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230717.pdf
+YAR.OL,Yara International ASA,429.38,2023-07-17 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230717.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-07-10 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230710.pdf
+EQNR.OL,Equinor ASA,353.4,2023-07-10 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230710.pdf
+EPR.OL,Europris ASA,67.64,2023-07-10 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230710.pdf
+KOG.OL,Kongsberg Gruppen ASA,469.56,2023-07-10 06:00:00.000000 UTC,Kongsberg Gruppen,0,gs://ukens_aksjer/clean_AA230710.pdf
+MOWI.OL,Mowi ASA,167.13,2023-07-10 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230710.pdf
+ORK.OL,Orkla ASA,76.95,2023-07-10 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA230710.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-07-10 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230710.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-07-10 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230710.pdf
+YAR.OL,Yara International ASA,429.38,2023-07-10 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230710.pdf
+ORK.OL,Orkla ASA,,2023-06-26 06:00:00.000000 UTC,Orkla,1,gs://ukens_aksjer/clean_AA230626.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-06-19 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230619.pdf
+BRG.OL,Borregaard ASA,189.87,2023-06-19 06:00:00.000000 UTC,Borregaard,-1,gs://ukens_aksjer/clean_AA230619.pdf
+EQNR.OL,Equinor ASA,353.4,2023-06-19 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230619.pdf
+EPR.OL,Europris ASA,67.64,2023-06-19 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230619.pdf
+KOG.OL,Kongsberg Gruppen ASA,469.56,2023-06-19 06:00:00.000000 UTC,Kongsberg Gruppen,0,gs://ukens_aksjer/clean_AA230619.pdf
+MOWI.OL,Mowi ASA,167.13,2023-06-19 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230619.pdf
+NOD.OL,Nordic Semiconductor ASA,126.3,2023-06-19 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA230619.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-06-19 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230619.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-06-19 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230619.pdf
+YAR.OL,Yara International ASA,429.38,2023-06-19 06:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230619.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-06-12 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230612.pdf
+ATEA.OL,Atea ASA,115.6,2023-06-12 06:00:00.000000 UTC,Atea,-1,gs://ukens_aksjer/clean_AA230612.pdf
+BRG.OL,Borregaard ASA,189.87,2023-06-12 06:00:00.000000 UTC,Borregaard,0,gs://ukens_aksjer/clean_AA230612.pdf
+EQNR.OL,Equinor ASA,353.4,2023-06-12 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230612.pdf
+EPR.OL,Europris ASA,67.64,2023-06-12 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230612.pdf
+KOG.OL,Kongsberg Gruppen ASA,,2023-06-12 06:00:00.000000 UTC,Kongsberg Gruppen,1,gs://ukens_aksjer/clean_AA230612.pdf
+MOWI.OL,Mowi ASA,167.13,2023-06-12 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230612.pdf
+NOD.OL,Nordic Semiconductor ASA,126.3,2023-06-12 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA230612.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-06-12 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230612.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-06-12 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230612.pdf
+YAR.OL,Yara International ASA,,2023-06-12 06:00:00.000000 UTC,Yara,1,gs://ukens_aksjer/clean_AA230612.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-06-05 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230605.pdf
+ATEA.OL,Atea ASA,115.6,2023-06-05 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230605.pdf
+BRG.OL,Borregaard ASA,189.87,2023-06-05 06:00:00.000000 UTC,Borregaard,0,gs://ukens_aksjer/clean_AA230605.pdf
+EQNR.OL,Equinor ASA,353.4,2023-06-05 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230605.pdf
+EPR.OL,Europris ASA,67.64,2023-06-05 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230605.pdf
+MOWI.OL,Mowi ASA,167.13,2023-06-05 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230605.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-06-05 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230605.pdf
+SNI.OL,Stolt-Nielsen Limited,287.96,2023-06-05 06:00:00.000000 UTC,Stolt-Nielsen,0,gs://ukens_aksjer/clean_AA230605.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-06-05 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230605.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-05-30 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230530.pdf
+ATEA.OL,Atea ASA,115.6,2023-05-30 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230530.pdf
+BRG.OL,Borregaard ASA,189.87,2023-05-30 06:00:00.000000 UTC,Borregaard,0,gs://ukens_aksjer/clean_AA230530.pdf
+EQNR.OL,Equinor ASA,353.4,2023-05-30 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230530.pdf
+EPR.OL,Europris ASA,67.64,2023-05-30 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230530.pdf
+MOWI.OL,Mowi ASA,167.13,2023-05-30 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230530.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-05-30 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230530.pdf
+SNI.OL,Stolt-Nielsen Limited,287.96,2023-05-30 06:00:00.000000 UTC,Stolt-Nielsen,0,gs://ukens_aksjer/clean_AA230530.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-05-30 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230530.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-05-22 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230522.pdf
+ATEA.OL,Atea ASA,115.6,2023-05-22 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230522.pdf
+BRG.OL,Borregaard ASA,189.87,2023-05-22 06:00:00.000000 UTC,Borregaard,0,gs://ukens_aksjer/clean_AA230522.pdf
+EQNR.OL,Equinor ASA,353.4,2023-05-22 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230522.pdf
+EPR.OL,Europris ASA,67.64,2023-05-22 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230522.pdf
+MOWI.OL,Mowi ASA,167.13,2023-05-22 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230522.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-05-22 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230522.pdf
+SNI.OL,Stolt-Nielsen Limited,287.96,2023-05-22 06:00:00.000000 UTC,Stolt-Nielsen,0,gs://ukens_aksjer/clean_AA230522.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-05-22 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230522.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-05-15 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230515.pdf
+ATEA.OL,Atea ASA,115.6,2023-05-15 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230515.pdf
+BRG.OL,Borregaard ASA,,2023-05-15 06:00:00.000000 UTC,Borregaard,1,gs://ukens_aksjer/clean_AA230515.pdf
+EQNR.OL,Equinor ASA,353.4,2023-05-15 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230515.pdf
+EPR.OL,Europris ASA,67.64,2023-05-15 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230515.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-05-15 06:00:00.000000 UTC,Lerøy Seafood,-1,gs://ukens_aksjer/clean_AA230515.pdf
+MOWI.OL,Mowi ASA,167.13,2023-05-15 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230515.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-05-15 06:00:00.000000 UTC,Norske Skog,-1,gs://ukens_aksjer/clean_AA230515.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-05-15 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230515.pdf
+SNI.OL,Stolt-Nielsen Limited,,2023-05-15 06:00:00.000000 UTC,Stolt Nielsen,1,gs://ukens_aksjer/clean_AA230515.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-05-15 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230515.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-05-08 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230508.pdf
+ATEA.OL,Atea ASA,115.6,2023-05-08 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230508.pdf
+EQNR.OL,Equinor ASA,353.4,2023-05-08 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230508.pdf
+EPR.OL,Europris ASA,67.64,2023-05-08 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230508.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-05-08 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230508.pdf
+MOWI.OL,Mowi ASA,167.13,2023-05-08 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230508.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-05-08 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230508.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-05-08 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230508.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-05-08 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230508.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-05-02 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230502.pdf
+ATEA.OL,Atea ASA,115.6,2023-05-02 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230502.pdf
+EQNR.OL,Equinor ASA,353.4,2023-05-02 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230502.pdf
+EPR.OL,Europris ASA,67.64,2023-05-02 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230502.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-05-02 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230502.pdf
+MOWI.OL,Mowi ASA,167.13,2023-05-02 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230502.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-05-02 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230502.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-05-02 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230502.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-05-02 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230502.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-04-24 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230424.pdf
+ATEA.OL,Atea ASA,115.6,2023-04-24 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230424.pdf
+EQNR.OL,Equinor ASA,353.4,2023-04-24 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230424.pdf
+EPR.OL,Europris ASA,67.64,2023-04-24 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230424.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-04-24 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230424.pdf
+MOWI.OL,Mowi ASA,167.13,2023-04-24 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230424.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-04-24 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230424.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-04-24 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230424.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-04-24 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230424.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-04-17 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230417.pdf
+ATEA.OL,Atea ASA,115.6,2023-04-17 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230417.pdf
+EQNR.OL,Equinor ASA,353.4,2023-04-17 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230417.pdf
+EPR.OL,Europris ASA,67.64,2023-04-17 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230417.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-04-17 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230417.pdf
+MOWI.OL,Mowi ASA,167.13,2023-04-17 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230417.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-04-17 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230417.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-04-17 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230417.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-04-17 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230417.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-04-11 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230411.pdf
+ATEA.OL,Atea ASA,115.6,2023-04-11 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230411.pdf
+EQNR.OL,Equinor ASA,353.4,2023-04-11 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230411.pdf
+EPR.OL,Europris ASA,67.64,2023-04-11 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230411.pdf
+LSG.OL,Leroy Seafood Group ASA,50.82,2023-04-11 06:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230411.pdf
+MOWI.OL,Mowi ASA,167.13,2023-04-11 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230411.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-04-11 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230411.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-04-11 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230411.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-04-11 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230411.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-03-27 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230327.pdf
+ATEA.OL,Atea ASA,115.6,2023-03-27 06:00:00.000000 UTC,Atea,0,gs://ukens_aksjer/clean_AA230327.pdf
+EQNR.OL,Equinor ASA,353.4,2023-03-27 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230327.pdf
+EPR.OL,Europris ASA,67.64,2023-03-27 06:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230327.pdf
+LSG.OL,Leroy Seafood Group ASA,,2023-03-27 06:00:00.000000 UTC,Lerøy Seafood,1,gs://ukens_aksjer/clean_AA230327.pdf
+MOWI.OL,Mowi ASA,167.13,2023-03-27 06:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230327.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-03-27 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230327.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-03-27 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230327.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-03-27 06:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230327.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-03-20 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230320.pdf
+ATEA.OL,Atea ASA,,2023-03-20 07:00:00.000000 UTC,Atea,1,gs://ukens_aksjer/clean_AA230320.pdf
+EQNR.OL,Equinor ASA,353.4,2023-03-20 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230320.pdf
+EPR.OL,Europris ASA,67.64,2023-03-20 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230320.pdf
+GOGL.OL,Golden Ocean Group Ltd,97.19,2023-03-20 07:00:00.000000 UTC,Golden Ocean,-1,gs://ukens_aksjer/clean_AA230320.pdf
+MOWI.OL,Mowi ASA,167.13,2023-03-20 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230320.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-03-20 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230320.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-03-20 07:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230320.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-03-20 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230320.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-03-13 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230313.pdf
+EQNR.OL,Equinor ASA,353.4,2023-03-13 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230313.pdf
+EPR.OL,Europris ASA,67.64,2023-03-13 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230313.pdf
+GOGL.OL,Golden Ocean Group Ltd,97.19,2023-03-13 07:00:00.000000 UTC,Golden Ocean,0,gs://ukens_aksjer/clean_AA230313.pdf
+MOWI.OL,Mowi ASA,167.13,2023-03-13 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230313.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-03-13 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230313.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-03-13 07:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230313.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-03-13 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230313.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-03-06 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230306.pdf
+EQNR.OL,Equinor ASA,353.4,2023-03-06 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230306.pdf
+EPR.OL,Europris ASA,67.64,2023-03-06 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230306.pdf
+GOGL.OL,Golden Ocean Group Ltd,97.19,2023-03-06 07:00:00.000000 UTC,Golden Ocean,0,gs://ukens_aksjer/clean_AA230306.pdf
+MOWI.OL,Mowi ASA,167.13,2023-03-06 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230306.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-03-06 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230306.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-03-06 07:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230306.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-03-06 07:00:00.000000 UTC,Stolt Nielsen,-1,gs://ukens_aksjer/clean_AA230306.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-03-06 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230306.pdf
+YAR.OL,Yara International ASA,453.41,2023-03-06 07:00:00.000000 UTC,Yara,-1,gs://ukens_aksjer/clean_AA230306.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-02-27 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230227.pdf
+EQNR.OL,Equinor ASA,353.4,2023-02-27 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230227.pdf
+EPR.OL,Europris ASA,67.64,2023-02-27 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230227.pdf
+GOGL.OL,Golden Ocean Group Ltd,97.19,2023-02-27 07:00:00.000000 UTC,Golden Ocean,0,gs://ukens_aksjer/clean_AA230227.pdf
+MOWI.OL,Mowi ASA,167.13,2023-02-27 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230227.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-02-27 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230227.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-02-27 07:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230227.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-02-27 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230227.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-02-27 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230227.pdf
+YAR.OL,Yara International ASA,453.41,2023-02-27 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230227.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-02-20 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230220.pdf
+EQNR.OL,Equinor ASA,353.4,2023-02-20 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230220.pdf
+EPR.OL,Europris ASA,67.64,2023-02-20 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230220.pdf
+GOGL.OL,Golden Ocean Group Ltd,,2023-02-20 07:00:00.000000 UTC,Golden Ocean,1,gs://ukens_aksjer/clean_AA230220.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-02-20 07:00:00.000000 UTC,Lerøy Seafood,-1,gs://ukens_aksjer/clean_AA230220.pdf
+MOWI.OL,Mowi ASA,167.13,2023-02-20 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230220.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-02-20 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230220.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,122.18,2023-02-20 07:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA230220.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-02-20 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230220.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-02-20 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230220.pdf
+YAR.OL,Yara International ASA,453.41,2023-02-20 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230220.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-02-13 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230213.pdf
+EQNR.OL,Equinor ASA,353.4,2023-02-13 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230213.pdf
+EPR.OL,Europris ASA,67.64,2023-02-13 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230213.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-02-13 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230213.pdf
+MOWI.OL,Mowi ASA,167.13,2023-02-13 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230213.pdf
+NSKOG.OL,Norske Skog Asa,72.81,2023-02-13 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230213.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,,2023-02-13 07:00:00.000000 UTC,SR-Bank,1,gs://ukens_aksjer/clean_AA230213.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-02-13 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230213.pdf
+STB.OL,Storebrand ASA,85.7,2023-02-13 07:00:00.000000 UTC,Storebrand,-1,gs://ukens_aksjer/clean_AA230213.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-02-13 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230213.pdf
+YAR.OL,Yara International ASA,453.41,2023-02-13 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230213.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-02-06 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230206.pdf
+EQNR.OL,Equinor ASA,353.4,2023-02-06 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230206.pdf
+EPR.OL,Europris ASA,67.64,2023-02-06 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230206.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-02-06 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230206.pdf
+MOWI.OL,Mowi ASA,167.13,2023-02-06 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230206.pdf
+NSKOG.OL,Norske Skog Asa,,2023-02-06 07:00:00.000000 UTC,Norske Skog,1,gs://ukens_aksjer/clean_AA230206.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-02-06 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230206.pdf
+STB.OL,Storebrand ASA,85.7,2023-02-06 07:00:00.000000 UTC,Storebrand,0,gs://ukens_aksjer/clean_AA230206.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-02-06 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230206.pdf
+YAR.OL,Yara International ASA,453.41,2023-02-06 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230206.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-01-30 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230130.pdf
+EQNR.OL,Equinor ASA,353.4,2023-01-30 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230130.pdf
+EPR.OL,Europris ASA,67.64,2023-01-30 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230130.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-01-30 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230130.pdf
+MOWI.OL,Mowi ASA,167.13,2023-01-30 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230130.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-01-30 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230130.pdf
+STB.OL,Storebrand ASA,85.7,2023-01-30 07:00:00.000000 UTC,Storebrand,0,gs://ukens_aksjer/clean_AA230130.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-01-30 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230130.pdf
+YAR.OL,Yara International ASA,453.41,2023-01-30 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230130.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-01-23 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230123.pdf
+EQNR.OL,Equinor ASA,353.4,2023-01-23 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230123.pdf
+EPR.OL,Europris ASA,67.64,2023-01-23 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230123.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-01-23 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230123.pdf
+MOWI.OL,Mowi ASA,167.13,2023-01-23 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230123.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-01-23 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230123.pdf
+STB.OL,Storebrand ASA,85.7,2023-01-23 07:00:00.000000 UTC,Storebrand,0,gs://ukens_aksjer/clean_AA230123.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-01-23 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230123.pdf
+YAR.OL,Yara International ASA,453.41,2023-01-23 07:00:00.000000 UTC,Yara,0,gs://ukens_aksjer/clean_AA230123.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-01-16 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230116.pdf
+EQNR.OL,Equinor ASA,353.4,2023-01-16 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230116.pdf
+EPR.OL,Europris ASA,67.64,2023-01-16 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230116.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-01-16 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230116.pdf
+MOWI.OL,Mowi ASA,167.13,2023-01-16 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230116.pdf
+NOD.OL,Nordic Semiconductor ASA,165.56,2023-01-16 07:00:00.000000 UTC,Nordic Semiconductor,-1,gs://ukens_aksjer/clean_AA230116.pdf
+NSKOG.OL,Norske Skog Asa,68.38,2023-01-16 07:00:00.000000 UTC,Norske Skog,-1,gs://ukens_aksjer/clean_AA230116.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-01-16 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230116.pdf
+STB.OL,Storebrand ASA,85.7,2023-01-16 07:00:00.000000 UTC,Storebrand,0,gs://ukens_aksjer/clean_AA230116.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-01-16 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230116.pdf
+YAR.OL,Yara International ASA,,2023-01-16 07:00:00.000000 UTC,Yara,1,gs://ukens_aksjer/clean_AA230116.pdf
+AKRBP.OL,Aker BP ASA,309.37,2023-01-09 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA230109.pdf
+EQNR.OL,Equinor ASA,353.4,2023-01-09 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230109.pdf
+EPR.OL,Europris ASA,67.64,2023-01-09 07:00:00.000000 UTC,Europris,0,gs://ukens_aksjer/clean_AA230109.pdf
+LSG.OL,Leroy Seafood Group ASA,55.23,2023-01-09 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230109.pdf
+MOWI.OL,Mowi ASA,167.13,2023-01-09 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230109.pdf
+NOD.OL,Nordic Semiconductor ASA,165.56,2023-01-09 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA230109.pdf
+NSKOG.OL,Norske Skog Asa,68.38,2023-01-09 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230109.pdf
+SNI.OL,Stolt-Nielsen Limited,274.01,2023-01-09 07:00:00.000000 UTC,Stolt Nielsen,0,gs://ukens_aksjer/clean_AA230109.pdf
+STB.OL,Storebrand ASA,85.7,2023-01-09 07:00:00.000000 UTC,Storebrand,0,gs://ukens_aksjer/clean_AA230109.pdf
+SUBC.OL,Subsea 7 S.A.,113.58,2023-01-09 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230109.pdf
+AKRBP.OL,Aker BP ASA,,2023-01-02 07:00:00.000000 UTC,Aker BP,1,gs://ukens_aksjer/clean_AA230102.pdf
+DNO.OL,Dno ASA,13.97,2023-01-02 07:00:00.000000 UTC,DNO,-1,gs://ukens_aksjer/clean_AA230102.pdf
+EQNR.OL,Equinor ASA,231.52,2023-01-02 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA230102.pdf
+EPR.OL,Europris ASA,,2023-01-02 07:00:00.000000 UTC,Europris,1,gs://ukens_aksjer/clean_AA230102.pdf
+FRO.OL,Frontline Ltd,126.01,2023-01-02 07:00:00.000000 UTC,Frontline,-1,gs://ukens_aksjer/clean_AA230102.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2023-01-02 07:00:00.000000 UTC,Gjensidige,-1,gs://ukens_aksjer/clean_AA230102.pdf
+LSG.OL,Leroy Seafood Group ASA,47.63,2023-01-02 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA230102.pdf
+MOWI.OL,Mowi ASA,138.36,2023-01-02 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA230102.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2023-01-02 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA230102.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2023-01-02 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA230102.pdf
+SNI.OL,Stolt-Nielsen Limited,,2023-01-02 07:00:00.000000 UTC,Stolt Nielsen,1,gs://ukens_aksjer/clean_AA230102.pdf
+STB.OL,Storebrand ASA,,2023-01-02 07:00:00.000000 UTC,Storebrand,1,gs://ukens_aksjer/clean_AA230102.pdf
+SUBC.OL,Subsea 7 S.A.,106.67,2023-01-02 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA230102.pdf
+DNO.OL,Dno ASA,13.97,2022-12-19 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221219.pdf
+EQNR.OL,Equinor ASA,231.52,2022-12-19 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221219.pdf
+FRO.OL,Frontline Ltd,126.01,2022-12-19 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221219.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-12-19 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221219.pdf
+LSG.OL,Leroy Seafood Group ASA,47.63,2022-12-19 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA221219.pdf
+MOWI.OL,Mowi ASA,138.36,2022-12-19 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221219.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-12-19 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221219.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-12-19 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221219.pdf
+SUBC.OL,Subsea 7 S.A.,106.67,2022-12-19 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA221219.pdf
+DNO.OL,Dno ASA,13.97,2022-12-12 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221212.pdf
+EQNR.OL,Equinor ASA,231.52,2022-12-12 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221212.pdf
+FRO.OL,Frontline Ltd,126.01,2022-12-12 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221212.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-12-12 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221212.pdf
+LSG.OL,Leroy Seafood Group ASA,47.63,2022-12-12 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA221212.pdf
+MOWI.OL,Mowi ASA,138.36,2022-12-12 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221212.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-12-12 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221212.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-12-12 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221212.pdf
+SUBC.OL,Subsea 7 S.A.,106.67,2022-12-12 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA221212.pdf
+DNO.OL,Dno ASA,13.97,2022-12-05 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221205.pdf
+EQNR.OL,Equinor ASA,231.52,2022-12-05 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221205.pdf
+FRO.OL,Frontline Ltd,126.01,2022-12-05 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221205.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-12-05 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221205.pdf
+LSG.OL,Leroy Seafood Group ASA,47.63,2022-12-05 07:00:00.000000 UTC,Lerøy Seafood,0,gs://ukens_aksjer/clean_AA221205.pdf
+MOWI.OL,Mowi ASA,138.36,2022-12-05 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221205.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-12-05 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221205.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-12-05 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221205.pdf
+SUBC.OL,Subsea 7 S.A.,106.67,2022-12-05 07:00:00.000000 UTC,Subsea 7,0,gs://ukens_aksjer/clean_AA221205.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-11-28 07:00:00.000000 UTC,Aker BP,-1,gs://ukens_aksjer/clean_AA221128.pdf
+DNO.OL,Dno ASA,13.97,2022-11-28 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221128.pdf
+EQNR.OL,Equinor ASA,231.52,2022-11-28 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221128.pdf
+FRO.OL,Frontline Ltd,126.01,2022-11-28 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221128.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-11-28 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221128.pdf
+LSG.OL,Leroy Seafood Group ASA,,2022-11-28 07:00:00.000000 UTC,Lerøy Seafood,1,gs://ukens_aksjer/clean_AA221128.pdf
+MOWI.OL,Mowi ASA,138.36,2022-11-28 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221128.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-11-28 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221128.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-11-28 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221128.pdf
+SUBC.OL,Subsea 7 S.A.,,2022-11-28 07:00:00.000000 UTC,Subsea 7,1,gs://ukens_aksjer/clean_AA221128.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-11-21 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221121.pdf
+DNO.OL,Dno ASA,13.97,2022-11-21 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221121.pdf
+EQNR.OL,Equinor ASA,231.52,2022-11-21 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221121.pdf
+FRO.OL,Frontline Ltd,126.01,2022-11-21 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221121.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-11-21 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221121.pdf
+MOWI.OL,Mowi ASA,138.36,2022-11-21 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221121.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-11-21 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221121.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-11-21 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221121.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-11-14 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221114.pdf
+DNO.OL,Dno ASA,13.97,2022-11-14 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221114.pdf
+EQNR.OL,Equinor ASA,231.52,2022-11-14 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221114.pdf
+FRO.OL,Frontline Ltd,126.01,2022-11-14 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221114.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-11-14 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221114.pdf
+MOWI.OL,Mowi ASA,138.36,2022-11-14 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221114.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-11-14 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221114.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-11-14 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221114.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-11-07 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221107.pdf
+DNO.OL,Dno ASA,13.97,2022-11-07 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221107.pdf
+EQNR.OL,Equinor ASA,231.52,2022-11-07 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221107.pdf
+FRO.OL,Frontline Ltd,126.01,2022-11-07 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221107.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-11-07 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221107.pdf
+MOWI.OL,Mowi ASA,138.36,2022-11-07 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221107.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-11-07 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221107.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-11-07 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221107.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-10-31 07:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221031.pdf
+DNO.OL,Dno ASA,13.97,2022-10-31 07:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221031.pdf
+EQNR.OL,Equinor ASA,231.52,2022-10-31 07:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221031.pdf
+FRO.OL,Frontline Ltd,126.01,2022-10-31 07:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221031.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-10-31 07:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221031.pdf
+MOWI.OL,Mowi ASA,138.36,2022-10-31 07:00:00.000000 UTC,Mowi,0,gs://ukens_aksjer/clean_AA221031.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-10-31 07:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221031.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-10-31 07:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221031.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-10-31 07:00:00.000000 UTC,SR-Bank,-1,gs://ukens_aksjer/clean_AA221031.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-10-24 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221024.pdf
+DNO.OL,Dno ASA,13.97,2022-10-24 06:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221024.pdf
+EQNR.OL,Equinor ASA,231.52,2022-10-24 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221024.pdf
+FRO.OL,Frontline Ltd,126.01,2022-10-24 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221024.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-10-24 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221024.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-10-24 06:00:00.000000 UTC,Grieg Seafood,-1,gs://ukens_aksjer/clean_AA221024.pdf
+MOWI.OL,Mowi ASA,,2022-10-24 06:00:00.000000 UTC,Mowi,1,gs://ukens_aksjer/clean_AA221024.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-10-24 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221024.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-10-24 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221024.pdf
+ORK.OL,Orkla ASA,84.94,2022-10-24 06:00:00.000000 UTC,Orkla,-1,gs://ukens_aksjer/clean_AA221024.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-10-24 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA221024.pdf
+VAR.OL,Var Energi ASA,40.48,2022-10-24 06:00:00.000000 UTC,Vår Energi,-1,gs://ukens_aksjer/clean_AA221024.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-10-17 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221017.pdf
+DNO.OL,Dno ASA,13.97,2022-10-17 06:00:00.000000 UTC,DNO,0,gs://ukens_aksjer/clean_AA221017.pdf
+EQNR.OL,Equinor ASA,231.52,2022-10-17 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221017.pdf
+FRO.OL,Frontline Ltd,126.01,2022-10-17 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221017.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-10-17 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221017.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-10-17 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA221017.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-10-17 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221017.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-10-17 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221017.pdf
+ORK.OL,Orkla ASA,84.94,2022-10-17 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA221017.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-10-17 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA221017.pdf
+VAR.OL,Var Energi ASA,40.48,2022-10-17 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA221017.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-10-10 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221010.pdf
+DNO.OL,Dno ASA,,2022-10-10 06:00:00.000000 UTC,DNO,1,gs://ukens_aksjer/clean_AA221010.pdf
+EQNR.OL,Equinor ASA,231.52,2022-10-10 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221010.pdf
+FRO.OL,Frontline Ltd,126.01,2022-10-10 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221010.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-10-10 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221010.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-10-10 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA221010.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-10-10 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221010.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-10-10 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221010.pdf
+ORK.OL,Orkla ASA,84.94,2022-10-10 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA221010.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-10-10 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA221010.pdf
+VAR.OL,Var Energi ASA,40.48,2022-10-10 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA221010.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-10-03 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA221003.pdf
+EQNR.OL,Equinor ASA,231.52,2022-10-03 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA221003.pdf
+FRO.OL,Frontline Ltd,126.01,2022-10-03 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA221003.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-10-03 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA221003.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-10-03 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA221003.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-10-03 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA221003.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-10-03 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA221003.pdf
+ORK.OL,Orkla ASA,84.94,2022-10-03 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA221003.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-10-03 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA221003.pdf
+VAR.OL,Var Energi ASA,40.48,2022-10-03 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA221003.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-09-26 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA220926.pdf
+EQNR.OL,Equinor ASA,231.52,2022-09-26 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA220926.pdf
+FRO.OL,Frontline Ltd,126.01,2022-09-26 06:00:00.000000 UTC,Frontline,0,gs://ukens_aksjer/clean_AA220926.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-09-26 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA220926.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-09-26 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA220926.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-09-26 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA220926.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-09-26 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA220926.pdf
+ORK.OL,Orkla ASA,84.94,2022-09-26 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA220926.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-09-26 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA220926.pdf
+VAR.OL,Var Energi ASA,40.48,2022-09-26 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA220926.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-09-19 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA220919.pdf
+EQNR.OL,Equinor ASA,231.52,2022-09-19 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA220919.pdf
+FRO.OL,Frontline Ltd,,2022-09-19 06:00:00.000000 UTC,Frontline,1,gs://ukens_aksjer/clean_AA220919.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-09-19 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA220919.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-09-19 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA220919.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-09-19 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA220919.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-09-19 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA220919.pdf
+ORK.OL,Orkla ASA,84.94,2022-09-19 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA220919.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-09-19 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA220919.pdf
+VAR.OL,Var Energi ASA,40.48,2022-09-19 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA220919.pdf
+AKRBP.OL,Aker BP ASA,384.26,2022-09-12 06:00:00.000000 UTC,Aker BP,0,gs://ukens_aksjer/clean_AA220912.pdf
+EQNR.OL,Equinor ASA,231.52,2022-09-12 06:00:00.000000 UTC,Equinor,0,gs://ukens_aksjer/clean_AA220912.pdf
+GJF.OL,Gjensidige Forsikring ASA,207.33,2022-09-12 06:00:00.000000 UTC,Gjensidige,0,gs://ukens_aksjer/clean_AA220912.pdf
+GSF.OL,Grieg Seafood ASA,112.54,2022-09-12 06:00:00.000000 UTC,Grieg Seafood,0,gs://ukens_aksjer/clean_AA220912.pdf
+NOD.OL,Nordic Semiconductor ASA,260.27,2022-09-12 06:00:00.000000 UTC,Nordic Semiconductor,0,gs://ukens_aksjer/clean_AA220912.pdf
+NSKOG.OL,Norske Skog Asa,68.32,2022-09-12 06:00:00.000000 UTC,Norske Skog,0,gs://ukens_aksjer/clean_AA220912.pdf
+ORK.OL,Orkla ASA,84.94,2022-09-12 06:00:00.000000 UTC,Orkla,0,gs://ukens_aksjer/clean_AA220912.pdf
+SRBNK.OL,Sparebank 1 SR Bank ASA,133.13,2022-09-12 06:00:00.000000 UTC,SR-Bank,0,gs://ukens_aksjer/clean_AA220912.pdf
+VAR.OL,Var Energi ASA,40.48,2022-09-12 06:00:00.000000 UTC,Vår Energi,0,gs://ukens_aksjer/clean_AA220912.pdf

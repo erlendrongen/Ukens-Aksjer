@@ -21,7 +21,7 @@ openai.api_key = OPENAI_API_KEY
 import pikepdf
 from pdfminer.high_level import extract_text
 
-import pyperclip
+#import pyperclip
 
 #Google Cloud
 from google.cloud import storage
@@ -35,7 +35,7 @@ G_SCOPES = ast.literal_eval(os.environ.get('G_SCOPES')) #to make the string into
 G_PRJ_ID = os.environ.get('G_PRJ_ID')
 G_BUCKET_NAME = os.environ.get('G_BUCKET_NAME')
 
-
+#setting up bigquery and storage client
 credentials = service_account.Credentials.from_service_account_file(G_KEY, scopes=G_SCOPES)
 storage_client = storage.Client(credentials=credentials, project=G_PRJ_ID)
 bigquery_client = bigquery.Client(credentials=credentials, project=G_PRJ_ID)
@@ -101,6 +101,7 @@ def wait_until_9_am(timezone):
     if now.hour < 9:
         next_9_am = now.replace(hour=9, minute=0, second=0, microsecond=0)
         delta_seconds = (next_9_am - now).total_seconds()
+        print("waitng for "+str(delta_seconds)+" seconds")
         time.sleep(delta_seconds)
 
 def wait_until_next_monday(timezone):
@@ -119,6 +120,8 @@ def wait_until_next_monday(timezone):
     # Calculate sleep duration in seconds
     delta_seconds = (next_monday - today).total_seconds()
     
+    print("waitng for "+str(delta_seconds)+" seconds")
+
     time.sleep(delta_seconds)
 
 def append_to_bigquery(df, table_name, project_id):
@@ -340,36 +343,53 @@ def main():
         newest_entry = json_data["data"][0]
         #newest_entry = json_data["data"][13]
         newest_file_path = newest_entry["path"]
+
         
         if last_downloaded != newest_file_path:
-            # Download the new file
+            # Download the file
+            print(BASE_URL + newest_file_path)
             local_file_path = download_file_to_disk(BASE_URL + newest_file_path, DOWNLOAD_DIR)
-            #local_file_path = download_file_to_disk('https://www.dnb.no/portalfront/nedlast/no/markets/analyser-rapporter/norske/anbefalte-aksjer/AA231009.pdf', DOWNLOAD_DIR)
             print(f"Downloaded {local_file_path}")
 
+            # Extract the date from filename
             report_date = extract_date_from_filename(BASE_URL + newest_file_path)
+            report_date = OSLO_TZ.localize(report_date)
+            report_date = report_date.replace(hour=8, minute=0)
 
-            # Remove restrictions from the file
+            # Remove any restrictions from the file
             clean_local_file_path = remove_restrictions(local_file_path)
 
             # Upload file to GCS
-            gcs_path = upload_to_gcs(clean_local_file_path, G_BUCKET_NAME,storage_client)
+            gcs_path = upload_to_gcs(clean_local_file_path, G_BUCKET_NAME, storage_client)
             print(f"Uploaded to GCS at {gcs_path}")
 
             # Extract text from the file
-            text = extract_text_from_pdf(local_file_path)
+            text = extract_text_from_pdf(local_file_path) 
             #print(f"Extracted Text: {text}")
 
-            delete_files_from_directory(DOWNLOAD_DIR)
+            #delete files from tempfolder
+            delete_files_from_directory(DOWNLOAD_DIR) 
 
-            df_ukens_aksjer = get_json_from_text(text)
+            # extract data from text
+            df_aksjer, df_endring = get_json_from_text(text)
 
-            append_to_bigquery(df_ukens_aksjer, 'alt.dnb_ukens_aksjer_detalj', G_PRJ_ID)
+            # get the filename to write txt's to disk
+            #filename = local_file_path.split('/')[-1].rsplit('.', 1)[0] # Extract the filename "AA220912.pdf"
+            #with open("./data/txt/"+filename+".txt", "w", encoding="utf-8") as file:
+                # Write the content of the text variable to the file
+            #    file.write(text)
 
-            append_to_bigquery(create_dataframe(BASE_URL + newest_file_path, gcs_path, text, datetime.now(OSLO_TZ)), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
 
-            # Update the last downloaded path
-            last_downloaded = newest_file_path
+            #write results to database
+            if len(df_aksjer)>0:
+                df_aksjer['date'] = report_date
+                append_to_bigquery(df_aksjer, 'alt.dnb_ukens_aksjer_aksjer', G_PRJ_ID)
+
+            if len(df_endring)>0:
+                df_endring['date'] = report_date
+                append_to_bigquery(df_endring, 'alt.dnb_ukens_aksjer_endring', G_PRJ_ID)
+
+            append_to_bigquery(create_dataframe(BASE_URL + file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
 
         # Sleep for the interval before checking again
         time.sleep(CHECK_INTERVAL)
@@ -380,7 +400,7 @@ if __name__ == "__main__":
 
 
 
-def manual_batch():
+def manual_batch_full():
     # Fetch the JSON
     response = requests.get(JSON_URL)
     json_data = response.json()
@@ -394,11 +414,12 @@ def manual_batch():
         local_file_path = download_file_to_disk(BASE_URL + file_path, DOWNLOAD_DIR)
         print(f"Downloaded {local_file_path}")
 
+        # Extract the date from filename
         report_date = extract_date_from_filename(BASE_URL + file_path)
         report_date = OSLO_TZ.localize(report_date)
         report_date = report_date.replace(hour=8, minute=0)
 
-        # Remove restrictions from the file
+        # Remove any restrictions from the file
         clean_local_file_path = remove_restrictions(local_file_path)
 
         # Upload file to GCS
@@ -406,13 +427,23 @@ def manual_batch():
         print(f"Uploaded to GCS at {gcs_path}")
 
         # Extract text from the file
-        text = extract_text_from_pdf(local_file_path)
+        text = extract_text_from_pdf(local_file_path) 
         #print(f"Extracted Text: {text}")
 
-        delete_files_from_directory(DOWNLOAD_DIR)
+        #delete files from tempfolder
+        delete_files_from_directory(DOWNLOAD_DIR) 
 
+        # extract data from text
         df_aksjer, df_endring = get_json_from_text(text)
 
+        # get the filename to write txt's to disk
+        #filename = local_file_path.split('/')[-1].rsplit('.', 1)[0] # Extract the filename "AA220912.pdf"
+        #with open("./data/txt/"+filename+".txt", "w", encoding="utf-8") as file:
+            # Write the content of the text variable to the file
+        #    file.write(text)
+
+
+        #write results to database
         if len(df_aksjer)>0:
             df_aksjer['date'] = report_date
             append_to_bigquery(df_aksjer, 'alt.dnb_ukens_aksjer_aksjer', G_PRJ_ID)
@@ -423,5 +454,44 @@ def manual_batch():
 
         append_to_bigquery(create_dataframe(BASE_URL + file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
 
+
+
+def manual_batch_txt_files_only():
+    # Fetch the JSON
+    response = requests.get(JSON_URL)
+    json_data = response.json()
+
+    # Loop over all the entries in the JSON data
+    for entry in json_data["data"]:
+        file_path = entry["path"]
+
+        # Download the file
+        print(BASE_URL + file_path)
+        local_file_path = download_file_to_disk(BASE_URL + file_path, DOWNLOAD_DIR)
+        print(f"Downloaded {local_file_path}")
+
+        # Extract the date from filename
+        report_date = extract_date_from_filename(BASE_URL + file_path)
+        report_date = OSLO_TZ.localize(report_date)
+        report_date = report_date.replace(hour=8, minute=0)
+
+        # Remove any restrictions from the file
+        clean_local_file_path = remove_restrictions(local_file_path)
+
+        # Extract text from the file
+        text = extract_text_from_pdf(local_file_path) 
+        #print(f"Extracted Text: {text}")
+
+        #delete files from tempfolder
+        delete_files_from_directory(DOWNLOAD_DIR) 
+
+        # extract data from text
+        #df_aksjer, df_endring = get_json_from_text(text)
+
+        # get the filename to write txt's to disk
+        filename = local_file_path.split('/')[-1].rsplit('.', 1)[0] # Extract the filename "AA220912.pdf"
+        with open("./data/txt/"+filename+".txt", "w", encoding="utf-8") as file:
+            # Write the content of the text variable to the file
+            file.write(text)
 
 

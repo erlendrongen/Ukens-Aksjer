@@ -5,6 +5,7 @@ __pycache__/
 *.egg-info/
 dist/
 build/
+Data/PDFs
 .env
 .env copy
 HowToVenv.txt

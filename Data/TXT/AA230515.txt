@@ -1,0 +1,3789 @@
+EQUITY RESEARCH 
+Research report prepared by DNB Markets, a division of DNB Bank ASA 
+Strategy 
+This report was completed and disseminated at 14:33 CET  on  15 May 2023 
+
+15 May 2023 
+
+ANBEFALTE AKSJER 
+To aksjer ut og to aksjer inn 
+Verdien  av  porteføljen  var  ned  med  0.4%  fra  mandag 
+formiddag forrige uke til mandag formiddag denne uken. 
+Til  sammenligning  var  OSEBX-indeksen  i  samme 
+periode  også  ned  med  0.4%.  Så  langt  i  2023  er 
+porteføljen  opp  1.0%,  på  linje  med  OSEBX-indeksen. 
+Denne  uken  tar  vi  to  aksjer  ut,  mens  to  nye  aksjer 
+kommer inn. 
+
+Porteføljeutvikling.  Atea  ble  ukens  vinner  med  en  oppgang  på  3.5%,  etterfulgt  av 
+Europris  (+3.3%).  Ikke  for  første  gang  var  Norske  Skog  den  svakeste  aksjen  i 
+porteføljen med en nedgang på 5.5%. Equinor (-2.3%) og Mowi (-1.9%) bidro også til å 
+dempe avkastningen forrige uke. 
+
+Vi tar Norske Skog og Lerøy Seafood ut. Norske Skog har blitt en dyr påminnelse om 
+hvorfor vi normalt bruker en 10% stop-loss regel. Ved å overstyre dette har aksjen falt 
+med 40% istedenfor de 10 prosentene det hadde vært hvis vi hadde tatt en stop-loss. 
+Dette  har  kostet  litt  over  4%-poeng  i  meravkastning  for  porteføljen.  Lerøy  Seafood 
+legger frem Q1-tall i morgen. Siden et flertall av selskapene på Oslo Børs har falt på 
+rapporteringsdagen denne resultatsesongen velger vi å ta den ut i forkant av rapporten. 
+
+Borregaard  og  Stolt-Nielsen  kommer  inn.  Både  Borregaard  og  Stolt-Nielsen 
+rapporterte solide Q1-tall og konsensusestimatene har i etterkant blitt justert opp. Bare 
+Elmera har hatt en større oppjustering av konsensus 2024 EPS  etter Q1-tallene enn 
+Stolt-Nielsen (nr. 2) og Borregaard (nr. 3). Begge aksjene har også et positivt langsiktig 
+kursmomentum. Borregaard er ikke priset spesielt lavt, men som følge av at en sterk 
+prisingsmakt gir robuste marginer  mener  vi dette er fortjent. Stolt-Nielsen  er priset til 
+bare 3.6x P/E med 11% direkteavkastning, noe vi synes er veldig attraktiv. 
+
+Porteføljen består av følgende aksjer: Aker BP, Atea, Borregaard, Equinor, Europris, 
+Mowi, SR-Bank, Stolt-Nielsen og Subsea 7. Begrunnelsen for hvert enkelt selskap er 
+oppsummert mer i detalj fra side 3 i denne rapporten. 
+
+I vår beregning av avkastning baserer vi inn- og utkursen på åpningskursene mandag 
+morgen.  Porteføljen  er  likevektet  og  ukens  avkastning  reflekterer  dermed  et  samlet 
+gjennomsnitt av kursutviklingen for alle aksjene gjennom uken. For selskaper på OBX-
+indeksen bruker vi gjennomsnittlig kurs frem til kl. 10.00 på mandag, mens vi for andre 
+aksjer bruker gjennomsnittet frem til kl. 12.00. Avkastningen for OSEBX beregnes fra 
+kurs kl. 10.00 mandag. 
+
+MSCI Nordic Countries and S&P 500 in USD 
+
+Source: Factset 
+
+Endringer denne uken 
+
+Aksjer inn 
+
+Borregaard 
+Stolt Nielsen 
+
+Aksjer ut 
+
+   Lerøy Seafood 
+Norske Skog 
+
+ANALYSTS 
+Paul Harper 
+paul.harper@dnb.no 
++47 24 16 91 82 
+Morten Jensen 
+morten.jensen@dnb.no 
++47 24 16 91 84 
+
+Please see the last page for important 
+information. This research report was 
+not produced in the US. Analysts 
+employed by non-US affiliates are not 
+registered/qualified as research 
+analysts with FINRA in the United 
+States. 
+
+9095100105110115120maijulsepnovjanmarmaiMSCI Nordic Countries…S&P 500 (Rebased)TegnforklaringerEPSCEPSDPSPAksjekursROCEROEEKNAVEVP/EEBITEBITDAEgenkapital Eiendelers nettoverdiMarkedsverdi pluss gjeldKurs/Fortjeneste pr aksjeDriftsresultatDriftsresultat før avskrivningerFortjeneste pr aksjeKontantinntjening pr aksjeUtbytte pr aksjeAvkastning sysselsatt kapitalEgenkapitalavkastning 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Anbefalte Aksjer 
+Figure 1: Anbefalte aksjer 
+Selskap 
+
+Dato inn 
+
+Kurs inn 
+
+08.05.2023 
+
+15.05.2023  Endr. fra anbef. (%)  Endr. siste uke (%) 
+
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+6. feb. 23 
+13. feb. 23 
+20. mar. 23 
+27. mar. 23 
+
+Aker BP 
+Equinor 
+Europris 
+Mowi 
+Subsea 7 
+Norske Skog 
+SR-Bank 
+Atea 
+Lerøy Seafood 
+Siste ukes avkastning 
+OSEBX indeks 
+Endring portefølje 2023 
+Endring OSEBX 2023 
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+2. jan. 23 
+
+309.37 
+353.40 
+67.64 
+167.13 
+113.58 
+72.81 
+122.18 
+115.60 
+50.82 
+
+244.43 
+315.75 
+74.28 
+193.25 
+115.72 
+46.31 
+120.02 
+145.52 
+53.24 
+
+241.61 
+299.08 
+76.73 
+189.62 
+115.36 
+43.78 
+119.37 
+150.57 
+53.72 
+
+1,200.2 
+
+1,216.5 
+
+1,212.0 
+
+-18.2 
+-10.1 
+19.0 
+14.5 
+5.1 
+-39.9 
+3.4 
+33.0 
+5.7 
+
+-1.2 
+-2.3 
+3.3 
+-1.9 
+-0.3 
+-5.5 
+-0.5 
+3.5 
+0.9 
+-0.4 
+-0.4 
+1.0 
+1.0 
+
+Figure 2: 2023 Porteføljeavkastning 
+
+Source: DNB Markets 
+
+Figure 3: Porteføljeavkastning, 2005-2023 
+
+Source: DNB Markets, Dagens Næringsliv 
+
+2 
+
+909294969810010210410610812345678910111213141516171819DNB PorteføljeOSEBX-80.0-60.0-40.0-20.00.020.040.060.080.0100.02005200620072008200920102011201220132014201520162017201820192020202120222023 YTDDNB PorteføljeOSEBX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Aker BP (AKRBP) 
+◼  Tilbudssiden for olje kan bli stram i en lengere periode. OPEC har vist at de er proaktive med 
+å kutte produksjonen og det er i tillegg slutt på lagertappingen i USA. På etterspørselssiden 
+blir Kina mye sterkere nå som zero-Covid strategien er tilbakelagt. Dette gir en asymmetrisk 
+risikoprofil med støtte på nedsiden, men samtidig ingen begrensinger på oppsiden. 
+
+◼  Selv  om  det  politiske  presset  mot  oljeselskapene  for  et  grønt  skifte  på  kort  sikt  er  noe 
+redusert tror vi at den lange horisonten utbyggingen av nye felt krever, og usikkerheten dette 
+har skapt, kommer til å begrense nye investeringer i tiden fremover. Vi tror resultatet av dette 
+er at utbyttebetalinger blir prioritert fremfor store investeringer. 
+
+◼  Sektoren  prises  på  svært  lave  P/E-multipler  og  med  en  høy  direkteavkastning,  noe  som 
+indikerer at markedet ikke legger til grunn at de høye olje- og gassprisene det siste året vil 
+vedvare.  
+
+Figure 4: Aker BP aksjekurs (utbyttejustert) 
+
+Figure 5: Nøkkeltall 
+
+  Aker BP 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+AKRBP NO 
+Oil E&P 
+153,265 
+14,321 
+2,613 
+1.2 
+17.4 
+9.9 
+5.9 
+6.1 
+69.6 
+0.2 
+1.3 
+4.1 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Equinor (EQNR) 
+◼  Til tross for en nedjustering av DNBs gassprisanslag, tror vi etterspørselen blir sterk i flere 
+år. Eksplosjonen i Nordstreamrørledningene gjør det lite sannsynlig at Russland blir en like 
+stor leverandør av gass til Europa som før, selv om det skulle bli fred i Ukraina. 
+
+◼  Tilbudssiden for olje kan bli stram i en lengere periode. OPEC har vist at de er proaktive med 
+å kutte produksjonen og det er i tillegg slutt på lagertappingen i USA. På etterspørselssiden 
+blir Kina mye sterkere nå som zero-Covid strategien er tilbakelagt. Dette gir en asymmetrisk 
+risikoprofil med støtte på nedsiden, men samtidig ingen begrensinger på oppsiden. 
+
+◼  Selv  om  det  politiske  presset  mot  oljeselskapene  for  et  grønt  skifte  på  kort  sikt  er  noe 
+redusert tror vi at den lange horisonten utbyggingen av nye felt krever, og usikkerheten dette 
+har skapt, kommer til å begrense nye investeringer i tiden fremover. Vi tror resultatet av dette 
+er at utbyttebetalinger blir prioritert fremfor store investeringer. 
+
+◼  Sektoren  prises  på  svært  lave  P/E-multipler  og  med  en  høy  direkteavkastning,  noe  som 
+indikerer at markedet ikke legger til grunn at de høye olje- og gassprisene det siste året vil 
+vedvare.  
+
+3 
+
+5010015020025030035040045012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 6: Equinor aksjekurs (utbyttejustert) 
+
+Figure 7: Nøkkeltall 
+
+  Equinor 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2-year Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+EQNR NO 
+Integrated Oil & Gas 
+959,468 
+89,650 
+-10,942 
+1.6 
+25.5 
+10.5 
+6.2 
+6.7 
+44.9 
+-0.3 
+1.3 
+3.6 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Europris (EPR) 
+◼  Lavpriskonsepter med bredt vareutvalg burde være relativt robust til tross for et bakteppe av 
+svakere økonomisk vekst i 2023. 84 prosent av vareutvalget er priset til mindre enn NOK200. 
+
+◼  Europris  handles  til  lavere  multipler  enn  sammenlignbar  internasjonale  selskap.  Dette  er 
+delvis fordi markedet har priset den sterke utviklingen som om det bare har vært på grunn 
+av midlertidig pandemifaktorer. Vi tror dette undervurderer hvor stor andel av utviklingen som 
+skyldes  en  underliggende  forbedring.  Analytikerne  har  oppjustert  inntjeningsestimatene 
+hvert kvartal siden april 2020. 
+
+◼  Etter en stor økning av fraktkostnadene i 2022 har Europris reforhandlet fraktkontrakter som 
+
+begynner i 2023 ned på et nivå som ligger 50 prosent lavere.  
+
+Figure 8: Europris aksjekurs (utbyttejustert) 
+
+Figure 9: Nøkkeltall 
+
+  Europris 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+EPR NO 
+Multiline Retail 
+12,690 
+1,186 
+246 
+3.8 
+27.0 
+4.3 
+13.7 
+12.9 
+13.6 
+2.0 
+0.5 
+3.4 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Mowi (MOWI) 
+◼  Hele  sjømatsektoren 
+
+falt  kraftig  etter 
+
+innføre  en 
+grunnrenteskatt for lakseoppdrett. De negative konsekvensene av dette tror vi nå er priset 
+inn, mens det er mulig det kan bli noe oppmykning etter at det blir tydelig at dette har negative 
+konsekvenser for investeringene i distrikts-Norge.  
+
+fra  regjeringen  om  å 
+
+forslaget 
+
+◼  Med virksomhet i Norge, Skottland, Irland, Chile og på begge sider av Canada er Mowi mer 
+geografisk diversifisert enn de øvrige større selskapene innenfor sektoren. På våre estimater 
+har selskapet rundt 43% av inntjeningen fra oppdrettsaktivitet i Norge, mens denne andelen 
+for de øvrige større norske aktørene er estimert å ligge på 64-92%. Dette reduserer etter 
+
+4 
+
+6011016021026031036041012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average102030405060708012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+vårt  syn  noe  av  risikoen  dersom  grunnrenteskatten  blir  vedtatt  på  grunnlag  av  det 
+eksisterende forslaget. 
+
+◼  Med grunnrenteskatt inkludert i konsensusestimatene synes vi prisingen er attraktiv med en 
+P/E på 12x og en direkteavkastning på 5%. Inntjeningen innen sjømat er fremdeles noe mer 
+defensiv (mindre syklisk) enn gjennomsnittet på Oslo Børs, noe som etter vår mening burde 
+tilsi at sektoren fortjener en høyere multippel. 
+
+Figure 10: Mowi aksjekurs (utbyttejustert) 
+
+Figure 11: Nøkkeltall 
+
+  Marine Harvest 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+MOWI NO 
+Seafood 
+98,975 
+9,248 
+1,571 
+2.3 
+19.0 
+4.8 
+12.2 
+11.8 
+6.5 
+1.3 
+0.9 
+4.6 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Subsea 7 (SUBC) 
+◼  Etter vårt syn ser konsensusestimatene konservative ut nå som selskapet har vist en bedre 
+prisingsmakt  og  de  samtidig  opplever  god  vekst  i  nye  og  eksisterende  prosjekter.  Antall 
+prosjekter er også på vei opp og bransjens samlede tilgengelige kapasitet begynner allerede 
+å bli begrenset for 2024 og strammere for 2025. 
+
+◼  Den svake utviklingen i oljeprisen kommer til å trekke ned konsensus inntjeningsestimater 
+for  oljeselskapene,  men  vi  tror  oljeprisen  må  falle  mer  før  det  blir  noe  utsettelse  av 
+investeringsbeslutningene. Selv om oljeprisen skuffer på kort sikt, tror vi fremdeles på solide 
+priser på mellomlang sikt. 
+
+◼  Vi synes prising er attraktiv for investorer som er villige til å se to eller flere år frem i tid, dvs 
+
+frem til når inntektene fra ordreboken kommer inn i regnskapet. 
+
+Figure 12: Subsea 7 aksjekurs (utbyttejustert) 
+
+Figure 13: Nøkkeltall 
+
+  Subsea 7 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2-year Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+SUBC NO 
+Oil Equipment & Services 
+35,313 
+3,300 
+246 
+0.7 
+2.8 
+2.9 
+26.2 
+11.2 
+13.9 
+0.7 
+1.4 
+4.4 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+5 
+
+12014016018020022024026028012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average3050709011013015012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+SR-Bank (SRBNK) 
+◼  SR-Bank  rapporterte  solide  Q1-tall  med  litt  bedre  renteinntekter  enn  ventet  og  fremdeles 
+
+lave utlånstap. Dette førte til en oppjustering i konsensusestimatene etter rapporten. 
+
+◼  Med P/E-multippel på 8x, Pris/bok på 1.1 og en direkteavkastning på 6 prosent er prisingen 
+
+etter vår mening attraktiv.  
+
+◼  Aksjen falt i 2022 til tross for oppjustering av forventet inntjening, men har nå begynt å utvikle 
+et positivt kursmomentum igjen. Når et positivt kursmomentum bygger på stigende inntjening 
+og moderat prising øker dette tilliten til at oppgangen er velbegrunnet og kan fortsette videre. 
+
+Figure 14: SR-Bank aksjekurs (utbyttejustert) 
+
+Figure 15: SR-Bank Nøkkeltal 
+
+  SR Bank 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+SRBNK NO 
+Regional Banks 
+30,588 
+2,858 
+NM 
+1.1 
+13.2 
+6.6 
+8.1 
+8.3 
+9.3 
+NM 
+0.9 
+4.6 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Atea (ATEA) 
+◼  Med  en  defensiv  vekstprofil  som  burde  være  robust  i  et  ruglete  marked  enn  de  sykliske 
+
+aksjene vi har eksponering til gir Atea porteføljen mer diversifisering.  
+
+◼  Atea leverte en ny sterk rapport for Q1 og analytikerne har oppjustert sine estimater for både 
+
+2023 og 2024, noe som gir støtte til et sterkt kursmomentum. 
+
+◼  Prising er etter vår mening attraktiv med en P/E på 16x og en direkteavkastning på 4.5%. 
+
+Figure 16: Atea aksjekurs (utbyttejustert) 
+
+Figure 17: Atea Nøkkeltal 
+
+  Atea 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+P/NAV (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+ATEA NO 
+IT Consulting 
+16,745 
+1,565 
+74 
+4.5 
+24.0 
+4.6 
+16.5 
+15.1 
+-2.1 
+0.5 
+0.8 
+4.0 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Borregaard (BRG) 
+◼  Borregaard har som markedsleder innen flere spesialiserte nisjeråvarer god prisingsmakt. 
+Vi  er  på  generelle  basis  bekymret  for  marginene  på  Oslo  Børs,  men  vi  mener  denne 
+prisingsmakten gjør at Borregaard vil være et unntak. Konsensus marginforventninger ble 
+oppjustert etter Q1-rapporten. 
+
+6 
+
+3050709011013015012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average50709011013015017019012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+◼  Borregaard er en av aksjene med høyest rangering på Oslo Børs basert på en kombinasjon 
+av  estimatendringer  og  kursmomentum.  Dette  er  de  faktorene  som  har  gitt  best 
+faktoravkastning de siste fem årene. Konsensus EPS for 2024 ble justert opp med 6% etter 
+Q1-rapporten, noe som var tredje best blant OSEBX selskapene. 
+
+◼  Borregaard har høy egenkapitalavkastning (ROE), moderat gjeld og en lang historikk med 
+verdiskapning.  Dette  er  kvaliteter  som  historisk  er  korrelert  med  meravkastning  i  urolige 
+perioder på børsen. 
+
+Figure 18: Borregaard 
+
+Figure 19: Borregaard nøkkeltall 
+
+  Borregaard 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2yr Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+BRG NO 
+Specialty Chemicals 
+18,820 
+1,758 
+167 
+4.3 
+21.1 
+1.9 
+19.7 
+19.0 
+11.8 
+1.1 
+0.7 
+4.4 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Stolt-Nielsen (SNI) 
+◼  Stolt-Nielsen  rapporterte  solide  Q1-tall,  men  aksjen  har  falt  kraftig  tilbake  sammen  med 
+resten av tanksektorene etter OPECs overraskende ekstra produksjonskutt. Med en stor del 
+av  inntjeningen  basert  på  kontrakter  heller  enn  spot-markedet  har  dette  imidlertid 
+begrensede konsekvenser for estimatene. Konsensusestimatene har vist en positiv trend de 
+siste 12 månedene og vi tror dette vil kunne fortsette. 
+
+◼  Den europeiske embargoen på russisk olje og oljeprodukter øker transportdistansene og gir 
+
+en strammere tilbuds- /etterspørselsbalanse. 
+
+◼  Stolt-Nielsen  prises  til  bare  0.6x  P/B  og  3.5x  P/E  og  med  12%  direkteavkastning,  noe  vi 
+
+synes ser attraktivt ut. 
+
+Figure 20: Stolt-Nielsen (utbyttejustert) 
+
+Figure 21: Stolt-Nielsen Nøkkeltal 
+
+  Stolt-Nielsen 
+
+Bloomberg Ticker 
+Sector 
+Market Cap (NOKm) 
+Market Cap (USDm) 
+Consensus year end Net Debt (USDm) 
+Trailing P/B (x) 
+12-month Forward ROE (%) 
+12-month Forward Dividend yield (%) 
+12-month Forward P/E (x) 
+2-year Forward P/E (x) 
+Last 3 years average revenue growth (%) 
+Net Debt/12-month trailing EBITDA 
+Beta 
+Consensus Analyst Rating (1=Sell, 5=Buy) 
+
+SNI NO 
+Oil & Gas Transport 
+16,533 
+1,545 
+1,797 
+0.6 
+19.2 
+11.9 
+3.5 
+3.4 
+11.5 
+NM 
+0.7 
+5.0 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+Source: Bloomberg (underlying data), DNB Markets (further calculations) 
+
+7 
+
+608010012014016018020022024012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average207012017022027032037012.05.202012.12.202012.07.202112.02.202212.09.202212.04.2023Share Price200 Day Moving Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 22: Stengte posisjoner 2023 
+Selskap 
+
+Dato inn 
+
+Nordic Semiconductor 
+Norske Skog 
+Storebrand 
+Lerøy Seafood 
+Stolt Nielsen 
+Yara 
+Golden Ocean 
+Norske Skog 
+Lerøy Seafood 
+Source: DNB Markets 
+
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+2. jan. 23 
+16. jan. 23 
+20. feb. 23 
+6. feb. 23 
+27. mar. 23 
+
+Dato ut 
+
+16. jan. 23 
+16. jan. 23 
+13. feb. 23 
+20. feb. 23 
+6. mar. 23 
+6. mar. 23 
+20. mar. 23 
+15. mai. 23 
+15. mai. 23 
+
+Kurs inn 
+
+Utbytte 
+
+Kurs ut 
+
+Avkastning (%) 
+
+165.56 
+68.38 
+85.70 
+55.23 
+274.01 
+453.41 
+97.19 
+72.81 
+50.82 
+
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 
+2.08 
+0.00 
+0.00 
+
+165.45 
+66.06 
+85.22 
+54.98 
+319.99 
+493.26 
+96.74 
+43.78 
+53.72 
+
+-0.1 
+-3.4 
+-0.6 
+-0.5 
++16.8 
++8.8 
++1.7 
+-39.9 
+5.7 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 23: Anbefalinger 
+Selskap 
+
+2020 Bulkers 
+A. P. Møller Mærsk 
+ABB 
+AcadeMedia AB 
+Addnode 
+Adevinta 
+Advanced Soltech 
+AF Gruppen 
+Airthings 
+Aker ASA 
+Aker Biomarine 
+Aker BP 
+Aker Horizons 
+Aker Solutions 
+Alfa Laval 
+Alimak 
+ALK-Abello 
+Alligator Bioscience 
+Alligo  
+Alvotech 
+Ambea 
+Ambu 
+AMSC ASA 
+Archer 
+Arctic Bioscience 
+Arctic Fish 
+Arjo 
+Aros Bostad 
+Assa Abloy 
+Atea 
+Atlantic Sapphire 
+Atlas Copco 
+Atrium Ljungberg 
+Aurora Eiendom 
+Austevoll Seafood 
+Autoliv 
+Autostore 
+Avance Gas 
+Avanza Bank 
+Axactor 
+Axfood 
+B2Holding 
+Bakkafrost 
+Balder 
+Beijer Ref 
+Benchmark Holdings Plc 
+BerGenBio 
+Bergman & Beving 
+Betsson 
+Better Collective 
+Billerud 
+BioArctic 
+Boliden 
+Bonava 
+Boozt 
+Borr Drilling  
+Source: DNB Markets 
+
+Ticker 
+
+2020 
+maerskb 
+ABB 
+ACAD 
+ANODB 
+ADE 
+ASAB 
+AFG 
+AIRX 
+AKER 
+AKBM 
+AKRBP 
+AKH 
+AKSO 
+ALFA 
+ALIG 
+ALKb 
+ATORX 
+ALLIGOB 
+ALVO 
+
+AMBUb 
+AMSC 
+ARCH 
+ABS 
+AFISH 
+ARJOB 
+AROS 
+ASSAB 
+ATEA 
+ASA 
+ATCOA 
+ATRLJB 
+AURA 
+AUSS 
+ALIV 
+AUTO 
+AGAS 
+AZA 
+ACR 
+AXFO 
+B2H 
+BAKKA 
+BALDB 
+BEIJb 
+BMK 
+BGBIO 
+BERGB 
+BETSB 
+BETCO 
+BILL 
+BIOAB 
+BOL 
+BONAVB 
+BOOZT 
+BORR 
+
+Kurs 
+
+Anbefaling 
+
+111.00 
+12110.00 
+383.20 
+51.70 
+125.60 
+80.65 
+12.28 
+154.20 
+2.20 
+638.00 
+37.50 
+242.50 
+7.70 
+36.06 
+383.80 
+75.00 
+87.05 
+0.58 
+120.20 
+9.80 
+38.80 
+113.00 
+39.90 
+0.92 
+10.50 
+90.50 
+45.86 
+36.40 
+245.10 
+149.00 
+4.67 
+150.20 
+175.60 
+80.00 
+96.00 
+914.40 
+21.09 
+70.90 
+224.00 
+5.68 
+250.70 
+7.20 
+746.00 
+39.14 
+164.00 
+5.10 
+1.94 
+147.60 
+122.20 
+210.50 
+98.10 
+304.20 
+346.85 
+17.20 
+115.80 
+73.10 
+
+BUY 
+HOLD 
+HOLD 
+BUY 
+NO REC 
+BUY 
+HOLD 
+SELL 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+HOLD 
+HOLD 
+HOLD 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+HOLD 
+HOLD 
+BUY 
+BUY 
+BUY 
+SELL 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+HOLD 
+HOLD 
+HOLD 
+BUY 
+SELL 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+HOLD 
+HOLD 
+BUY 
+
+Analytiker 
+
+Lian 
+Lian 
+Holmberg 
+Bonnevier 
+
+Westgaard 
+Nguyen 
+Mortensen 
+Bjørnsen 
+Masdal 
+Trovatn 
+Evjen 
+Karlsen 
+Karlsen 
+Holmberg 
+Lindbo 
+Ingildsen 
+Ling 
+Bonnevier 
+Ling 
+Bonnevier 
+Ingildsen 
+Lian 
+Karlsen 
+Holom 
+Trovatn 
+Ling 
+Wetterling 
+Holmberg 
+Bjørnsen 
+Aukner 
+Holmberg 
+Wetterling 
+Mortensen 
+Aukner 
+Holmberg 
+Maaø 
+Lian 
+McBeath 
+Astrup  
+Aas 
+Astrup  
+Aukner 
+Wetterling 
+Lindahl 
+Aukner 
+Holom 
+Bonnevier 
+Arnell 
+
+Grunselius 
+Ling 
+Grunselius 
+Mortensen 
+Aas 
+Karlsen 
+
+Kursmål 
+
+161.00 
+12100.00 
+415.00 
+63.00 
+
+115.00 
+18.00 
+100.00 
+4.00 
+870.00 
+45.00 
+370.00 
+
+45.00 
+415.00 
+84.00 
+95.00 
+
+145.00 
+15.00 
+50.00 
+135.00 
+58.00 
+1.50 
+15.00 
+125.00 
+60.00 
+38.00 
+325.00 
+150.00 
+6.00 
+150.00 
+200.00 
+125.00 
+118.00 
+1090.00 
+18.00 
+91.00 
+236.00 
+7.00 
+280.00 
+12.00 
+710.00 
+45.00 
+178.00 
+6.80 
+1.00 
+165.00 
+140.00 
+
+124.00 
+430.00 
+520.00 
+19.00 
+125.00 
+90.00 
+
+9 
+
+Valuta 
+
+NOK 
+DKK 
+SEK 
+SEK 
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+SEK 
+SEK 
+DKK 
+SEK 
+SEK 
+USD 
+SEK 
+DKK 
+NOK 
+NOK 
+NOK 
+NOK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+NOK 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 24: Anbefalinger 
+Selskap 
+
+Borregaard 
+Bravida  
+Bredband2 
+Bufab 
+BW Energy 
+BW LPG 
+BW Offshore 
+Byggfakta Group 
+Cadeler 
+Cambi  
+Camurus 
+Carasent  
+Cargotec 
+Carlsberg 
+Castellum 
+Catena 
+Chr. Hansen 
+Citycon 
+Collector Bank 
+Coloplast 
+Cool Company 
+Coor Service Management 
+Corem 
+Crayon 
+CSAM Health 
+Danske Bank 
+Demant  
+DHT Holdings 
+Diamond Offshore 
+DNB 
+DNO 
+DOF 
+Dolphin Drilling 
+Dometic 
+Dorian LPG 
+DSV 
+Eagle Bulk Shipping 
+Edda Wind 
+Electrolux 
+Electrolux Professional 
+Elekta 
+Elektroimportøren 
+Elisa 
+Elkem 
+Elmera Group 
+Elopak 
+Embracer Group 
+Enea 
+Eneti Inc 
+Entra 
+Epiroc 
+Episurf Medical 
+Equinor 
+Ericsson 
+Essity 
+Euronav 
+Source: DNB Markets 
+
+Ticker 
+
+BRG 
+BRAV 
+BRE2 
+BUFAB 
+BWE 
+BWLPG 
+BWO 
+BFG 
+CADLR 
+CAMBI 
+
+CARA 
+CGC 
+CARLB 
+CAST 
+CATE 
+CHR 
+CTY1S 
+COLL 
+COLOB 
+CLCO 
+COOR 
+COREB 
+CRAYN 
+CSAM 
+DANSKE 
+DEMANT 
+DHT 
+DO 
+DNB 
+DNO 
+DOF 
+DDRIL 
+DOM 
+LPG 
+DSV 
+EGLE 
+EWIND 
+ELUX 
+EPROB 
+EKTAB 
+ELIMP 
+ELISA 
+ELK 
+ELMRA 
+ELO 
+EMBRACB 
+ENEA 
+NETI 
+ENTRA 
+EPIA 
+EPISB 
+EQNR 
+ERICB 
+ESSITYB 
+EURN 
+
+Kurs 
+
+Anbefaling 
+
+Kursmål 
+
+Analytiker 
+
+Valuta 
+
+188.20 
+115.10 
+1.24 
+362.40 
+27.75 
+88.55 
+27.00 
+38.20 
+46.06 
+8.38 
+257.80 
+14.00 
+54.50 
+1124.00 
+101.05 
+365.40 
+534.20 
+6.03 
+31.30 
+929.40 
+124.10 
+60.90 
+6.88 
+86.80 
+46.10 
+140.25 
+279.30 
+8.35 
+11.58 
+184.15 
+10.25 
+0.68 
+11.64 
+68.84 
+21.79 
+1326.00 
+42.30 
+22.30 
+165.60 
+59.15 
+87.54 
+30.10 
+55.66 
+29.48 
+21.36 
+24.10 
+52.40 
+59.70 
+8.19 
+100.40 
+202.20 
+1.48 
+302.15 
+53.99 
+304.00 
+16.22 
+
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+HOLD 
+BUY 
+HOLD 
+BUY 
+BUY 
+HOLD 
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+HOLD 
+HOLD 
+HOLD 
+SELL 
+HOLD 
+SELL 
+HOLD 
+BUY 
+HOLD 
+BUY 
+HOLD 
+HOLD 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+
+Gehin 
+Bonnevier 
+
+Skoglund 
+Evjen 
+Lian 
+Karlsen 
+Gunell 
+Karlsen 
+Nguyen 
+Ling 
+Engen 
+Railo 
+Ingildsen 
+Wetterling 
+Wetterling 
+Dahl 
+Mortensen 
+Jonsson 
+Dahl 
+Lian 
+Bonnevier 
+Wetterling 
+Bjørnsen 
+Engen 
+Astrup  
+Dahl 
+Lian 
+Karlsen 
+Astrup  
+Evjen 
+Olsen 
+Karlsen 
+Lindahl 
+Lian 
+Nielsen 
+Lian 
+Karlsen 
+Magnergård 
+Lindbo 
+Ling 
+Westgaard 
+Gauffin 
+Gehin 
+Westgaard 
+Gehin 
+Arnell 
+Gunell 
+Karlsen 
+Mortensen 
+Holmberg 
+Ling 
+Evjen 
+Gunell 
+Aas 
+Lian 
+
+200.00 
+135.00 
+
+380.00 
+36.00 
+145.00 
+40.00 
+50.00 
+60.00 
+12.00 
+320.00 
+32.00 
+60.00 
+1275.00 
+
+450.00 
+571.00 
+6.70 
+40.00 
+950.00 
+185.00 
+100.00 
+8.00 
+110.00 
+55.00 
+195.00 
+325.00 
+11.90 
+15.00 
+
+13.50 
+
+20.00 
+96.00 
+26.10 
+1450.00 
+61.00 
+40.00 
+160.00 
+60.00 
+85.00 
+36.00 
+46.00 
+37.00 
+15.00 
+25.00 
+100.00 
+95.00 
+13.00 
+105.00 
+215.00 
+
+380.00 
+76.00 
+330.00 
+23.00 
+
+10 
+
+NOK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+EUR 
+DKK 
+SEK 
+SEK 
+DKK 
+EUR 
+SEK 
+DKK 
+NOK 
+SEK 
+SEK 
+NOK 
+NOK 
+DKK 
+DKK 
+USD 
+USD 
+NOK 
+NOK 
+NOK 
+NOK 
+SEK 
+USD 
+DKK 
+USD 
+NOK 
+SEK 
+SEK 
+SEK 
+NOK 
+EUR 
+NOK 
+NOK 
+NOK 
+SEK 
+SEK 
+USD 
+NOK 
+SEK 
+SEK 
+NOK 
+SEK 
+SEK 
+USD 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 25: Anbefalinger 
+Selskap 
+
+Europris 
+Evolution 
+Fabege 
+Fjord1 
+Flex LNG 
+FLSmidth 
+Fortnox 
+Freja eID Group 
+Frontline 
+GARO 
+Genco Shipping & Trading 
+Genmab 
+Gentian Diagnostics 
+Getinge 
+Gjensidige Forsikring 
+GN Group 
+Golar LNG 
+Golden Ocean 
+Grieg Seafood 
+Hafnia  
+Hennes & Mauritz 
+Hexagon AB 
+Hexagon Composites 
+Hexagon Purus 
+Hexatronic AB 
+Hexpol 
+Himalaya Shipping 
+HMS Networks 
+Holmen 
+Hufvudstaden 
+Humana 
+Hunter Group 
+Husqvarna 
+Höegh Autoliners ASA 
+IAR Systems 
+Ice Fish Farm 
+Icelandic Salmon 
+Industrivärden 
+Investor 
+Isofol Medical 
+ISS 
+Itab Shop Concept 
+Jm Ab 
+Kahoot 
+Kesko 
+Kindred Group 
+Kinnevik 
+Klaveness Combination Carriers 
+KMC Properties 
+Kojamo 
+Komplett 
+Kone 
+Konecranes 
+Kongsberg Gruppen 
+Lagercrantz 
+Latour 
+Source: DNB Markets 
+
+Ticker 
+
+EPR 
+EVO 
+FABG 
+FJORD 
+FLNG 
+FLS 
+FNOX 
+FREJA 
+FRO 
+GARO 
+GNK 
+GMAB 
+GENT 
+GETIB 
+GJF 
+GN 
+GLNG 
+GOGL 
+GSF 
+HAFNI 
+HMB 
+HEXAB 
+HEX 
+HPUR 
+HTRO 
+HPOLB 
+HSHP 
+HMS 
+HOLMB SS 
+HUFV 
+HUM 
+HUNT 
+HUSQb 
+HAUTO 
+IARB 
+IFISH 
+ISLAX 
+INDUc 
+INVEb 
+ISOFOL 
+ISS 
+ITAB 
+JM 
+KAHOT 
+KESKOb 
+KINDSDB 
+KINVb 
+KCC 
+KMCP 
+KOJAMO 
+KOMPL  
+KNEBV 
+KCR 
+KOG 
+LAGR.B 
+LATOb 
+
+Kurs 
+
+Anbefaling 
+
+76.00 
+1352.00 
+78.60 
+
+351.40 
+309.40 
+77.36 
+6.10 
+161.60 
+73.95 
+13.99 
+2869.00 
+46.80 
+248.40 
+181.00 
+181.75 
+21.88 
+92.54 
+87.30 
+54.55 
+143.00 
+117.15 
+27.20 
+21.00 
+73.46 
+116.60 
+59.20 
+479.80 
+414.00 
+131.50 
+14.20 
+0.11 
+90.64 
+69.50 
+111.40 
+28.00 
+155.00 
+289.20 
+215.15 
+0.54 
+141.60 
+10.00 
+145.10 
+22.26 
+19.08 
+126.00 
+164.15 
+76.80 
+5.58 
+9.77 
+15.00 
+51.54 
+39.47 
+471.00 
+131.10 
+216.30 
+
+BUY 
+BUY 
+HOLD 
+NO REC 
+HOLD 
+HOLD 
+BUY 
+NO REC 
+BUY 
+HOLD 
+BUY 
+SELL 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+NO REC 
+HOLD 
+BUY 
+HOLD 
+BUY 
+SELL 
+HOLD 
+HOLD 
+SELL 
+BUY 
+
+NO REC 
+BUY 
+BUY 
+BUY 
+
+SELL 
+BUY 
+BUY 
+BUY 
+SELL 
+BUY 
+BUY 
+HOLD 
+HOLD 
+HOLD 
+BUY 
+NO REC 
+NO REC 
+BUY 
+
+Kursmål 
+
+85.00 
+1750.00 
+80.00 
+
+390.00 
+310.00 
+85.00 
+
+226.00 
+87.00 
+26.80 
+2650.00 
+52.00 
+295.00 
+195.00 
+250.00 
+35.00 
+149.00 
+90.00 
+81.00 
+155.00 
+140.00 
+30.00 
+29.00 
+
+128.00 
+83.00 
+460.00 
+470.00 
+120.00 
+17.00 
+1.87 
+85.00 
+99.00 
+
+200.00 
+330.00 
+240.00 
+
+155.00 
+26.00 
+25.00 
+145.00 
+145.00 
+136.00 
+8.50 
+11.00 
+18.00 
+54.00 
+43.00 
+
+Analytiker 
+
+Westgaard 
+Arnell 
+Wetterling 
+Westgaard 
+Lian 
+Railo 
+Gunell 
+Gunell 
+Lian 
+Skoglund 
+Lian 
+Dahl 
+Holom 
+Ling 
+Astrup  
+Dahl 
+Lian 
+Lian 
+Aukner 
+Lian 
+Aas 
+Gunell 
+Brøndbo 
+Brøndbo 
+
+Lindahl 
+Lian 
+Gunell 
+Grunselius 
+Wetterling 
+Bonnevier 
+Lian 
+Magnergård 
+Lian 
+Gunell 
+Trovatn 
+Trovatn 
+Gunell 
+Gunell 
+Ling 
+Andersen 
+Bonnevier 
+Mortensen 
+Maaø 
+Ihamaki  
+Arnell 
+Gunell 
+Lian 
+Mortensen 
+Mortensen 
+Westgaard 
+Railo 
+Railo 
+Gehin 
+
+270.00 
+
+Gunell 
+
+11 
+
+BUY 
+
+181.00 
+
+Valuta 
+
+NOK 
+SEK 
+SEK 
+NOK 
+NOK 
+DKK 
+SEK 
+SEK 
+NOK 
+SEK 
+USD 
+DKK 
+NOK 
+SEK 
+NOK 
+DKK 
+USD 
+NOK 
+NOK 
+NOK 
+SEK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+NOK 
+SEK 
+SEK 
+SEK 
+SEK 
+NOK 
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+SEK 
+DKK 
+SEK 
+SEK 
+NOK 
+EUR 
+SEK 
+SEK 
+NOK 
+NOK 
+EUR 
+NOK 
+EUR 
+EUR 
+NOK 
+SEK 
+SEK 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 26: Anbefalinger 
+Selskap 
+
+Lerøy Seafood 
+Lime Technologies 
+Lindab International 
+Loomis 
+Lundbeck 
+Lundbergs 
+Lyko Group 
+Maersk Drilling 
+Medistim 
+Meltwater 
+Metsa Board 
+Metso Outotec 
+Millicom 
+Momentum Group 
+Mowi 
+MPC Container Ships 
+MTG 
+Multiconsult 
+Måsøval 
+NCAB 
+Ncc 
+Nel 
+Netel Group Holding 
+New Wave Group 
+Nexam Chemical  
+Nibe Industrier 
+Nobia 
+Noble 
+Nokia 
+Nokian Tyres 
+Nolato 
+Nordea 
+Nordic Paper Holding 
+Nordic Semiconductor 
+Nordnet  
+Norsk Hydro 
+Norske Skog 
+Northern Drilling 
+Norva24 
+Norwegian Air Shuttle 
+Novo Nordisk 
+Novozymes 
+NRC Group 
+Nyfosa 
+Nykode Therapeutics 
+Odfjell Drilling 
+Odfjell SE 
+Odfjell Technology 
+OKEA 
+Olav Thon  
+Oncopeptides 
+Orkla 
+Ossur 
+Otovo 
+Pacific Drilling 
+Pandora 
+Source: DNB Markets 
+
+Ticker 
+
+LSG 
+LIME 
+LIAB 
+LOOMIS 
+HLUN-B 
+LUNDb 
+LYKOA 
+DRLCO 
+MEDI 
+MWTR 
+METSB 
+MOCORP 
+TIGO 
+MMGRB 
+MOWI 
+MPCC 
+MTGb 
+MULTI 
+MAS 
+NCAB 
+NCC 
+NEL 
+NETEL 
+NEWAB 
+NEXAM 
+NIBEB 
+NOBI 
+NE 
+NOKIA 
+TYRES 
+NOLAB 
+NDA 
+NPAPER 
+NOD 
+SAVE 
+NHY 
+NSKOG 
+NODL 
+NORVA 
+NAS 
+NVO 
+NZYMB 
+NRC 
+NYF 
+NYKD 
+ODL 
+ODF 
+OTL 
+OKEA 
+OLT 
+ONCO 
+ORK 
+OSSR 
+OTOVO 
+PACD 
+PNDORA 
+
+Kurs 
+
+54.00 
+263.00 
+175.50 
+317.20 
+36.66 
+486.50 
+161.80 
+
+281.00 
+17.95 
+7.18 
+10.68 
+185.30 
+87.60 
+191.40 
+17.45 
+80.10 
+166.00 
+31.70 
+79.90 
+97.90 
+14.50 
+17.00 
+209.80 
+4.05 
+115.40 
+14.68 
+37.23 
+3.76 
+8.59 
+57.50 
+107.00 
+39.15 
+109.25 
+157.10 
+68.70 
+43.60 
+29.70 
+26.45 
+10.62 
+1175.60 
+356.30 
+10.76 
+64.60 
+26.78 
+24.35 
+95.40 
+50.60 
+32.52 
+177.00 
+8.16 
+81.20 
+30.85 
+11.98 
+
+614.00 
+
+Anbefaling 
+
+Kursmål 
+
+Analytiker 
+
+Valuta 
+
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+HOLD 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+HOLD 
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+SELL 
+BUY 
+BUY 
+NO REC 
+HOLD 
+BUY 
+BUY 
+HOLD 
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+SELL 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+NO REC 
+BUY 
+
+Aukner 
+Gauffin 
+Lindahl 
+Bonnevier 
+Dahl 
+Gunell 
+Tigerschiöld 
+Karlsen 
+Holom 
+Bjørnsen 
+Grunselius 
+Railo 
+Gauffin 
+Bonnevier 
+Aukner 
+Lian 
+Arnell 
+Mortensen 
+Aukner 
+Skoglund 
+Mortensen 
+Karlsen 
+Bonnevier 
+Bonnevier 
+Lindbo 
+Lindahl 
+Lindbo 
+Karlsen 
+Gunell 
+Ihamaki  
+Skoglund 
+McBeath 
+Grunselius 
+Bjørnsen 
+McBeath 
+Gehin 
+Grunselius 
+Karlsen 
+Bonnevier 
+Westgaard 
+Dahl 
+Dahl 
+Mortensen 
+Wetterling 
+Holom 
+Karlsen 
+Lian 
+Karlsen 
+Evjen 
+Mortensen 
+Ling 
+Westgaard 
+Ingildsen 
+Brøndbo 
+Karlsen 
+Ingildsen 
+
+67.00 
+300.00 
+235.00 
+425.00 
+41.00 
+505.00 
+180.00 
+
+290.00 
+45.00 
+9.00 
+13.00 
+290.00 
+89.00 
+220.00 
+17.58 
+85.00 
+190.00 
+44.00 
+80.00 
+130.00 
+7.00 
+29.00 
+260.00 
+18.00 
+125.00 
+26.00 
+52.00 
+4.20 
+9.80 
+70.00 
+156.00 
+50.00 
+170.00 
+206.00 
+55.00 
+100.00 
+
+42.00 
+18.00 
+1380.00 
+372.00 
+20.00 
+73.00 
+102.00 
+40.00 
+151.00 
+80.00 
+42.00 
+240.00 
+15.00 
+80.00 
+39.00 
+21.00 
+
+815.00 
+
+12 
+
+NOK 
+SEK 
+SEK 
+SEK 
+DKK 
+SEK 
+SEK 
+DKK 
+NOK 
+NOK 
+EUR 
+EUR 
+SEK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+NOK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+USD 
+EUR 
+EUR 
+SEK 
+SEK 
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+NOK 
+SEK 
+NOK 
+DKK 
+DKK 
+NOK 
+SEK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+SEK 
+NOK 
+DKK 
+NOK 
+USD 
+DKK 
+
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 27: Anbefalinger 
+Selskap 
+
+Pandox 
+Panoro Energy 
+Paradox Interactive AB 
+Pareto Bank 
+PatientSky Group 
+Peab 
+PGS 
+PhotoCure 
+Physitrack 
+Prosafe 
+Protector 
+Rana Gruber 
+Resurs Holding 
+Rockwool 
+Royal Unibrew 
+Safe Bulkers 
+SalMar 
+Salmon Evolution 
+Salmones Camanchaca 
+Sampo Oyj 
+Sandvik 
+SAS 
+Sats 
+SBB Norden 
+SCA 
+Scandic Hotels 
+Scatec 
+Schibsted 
+Scorpio Tankers 
+Sdiptech 
+Seadrill 
+Seaway 7 
+SEB 
+Securitas 
+Sedana Medical 
+Self Storage Group ASA 
+Selvaag Bolig 
+SFL Corporation Ltd  
+Shelf Drilling 
+Shelf Drilling North Sea 
+Sinch 
+Sivers Semiconductors 
+Skanska 
+SKF 
+Skistar 
+Smart Eye 
+Smartoptics 
+SpareBank 1 Helgeland 
+Sparebank 1 SMN 
+SpareBank 1 Sørøst-Norge 
+SpareBank 1 Østlandet 
+SpareBank1 Nord-Norge 
+SpareBank1 SR-Bank 
+Sparebanken Møre 
+Sparebanken Sør 
+Sparebanken Vest 
+Source: DNB Markets 
+
+Ticker 
+
+PNDXB 
+PEN 
+PDX 
+PARB 
+PSKY 
+PEAB 
+PGS 
+PHO 
+PTRK 
+PRS 
+PROT 
+RANA 
+RESURS 
+ROCKb 
+RBREW 
+SB 
+SALM 
+SALME 
+SACAM 
+SAMPO 
+SAND 
+SAS 
+SATS 
+SBBB 
+SCAB 
+SHOT 
+SCATC 
+SCHA 
+STNG 
+SDIPB 
+SDRL 
+SEAW7 
+SEB 
+SECUB 
+SEDANA 
+SSG 
+SBO 
+SFL 
+SHLF 
+SDNS 
+SINCH 
+SIVE 
+SKA 
+SKFB 
+SKISB 
+SEYE 
+SMOP 
+HELG 
+MING 
+SOON 
+SPOL 
+NONG 
+SRBNK 
+MORG 
+SOR 
+SVEG 
+
+Kurs 
+
+109.90 
+27.14 
+252.00 
+50.80 
+0.54 
+48.28 
+7.24 
+52.50 
+16.25 
+120.00 
+157.00 
+57.70 
+19.06 
+1780.00 
+624.00 
+3.53 
+461.50 
+6.92 
+44.80 
+45.75 
+200.90 
+0.29 
+11.00 
+6.08 
+144.45 
+34.10 
+73.40 
+198.70 
+48.29 
+261.60 
+395.50 
+6.24 
+113.55 
+86.14 
+29.30 
+25.00 
+34.30 
+8.71 
+22.15 
+24.50 
+21.89 
+7.18 
+148.90 
+178.70 
+133.60 
+43.10 
+26.90 
+121.00 
+130.80 
+51.00 
+122.00 
+93.10 
+119.60 
+76.48 
+126.00 
+95.60 
+
+Anbefaling 
+
+Kursmål 
+
+Analytiker 
+
+Valuta 
+
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+HOLD 
+SELL 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+SELL 
+BUY 
+SELL 
+BUY 
+BUY 
+SELL 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+HOLD 
+SELL 
+HOLD 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+HOLD 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+
+Mortensen 
+Evjen 
+Arnell 
+Astrup  
+Engen 
+Mortensen 
+Evjen 
+Ling 
+Gunell 
+Karlsen 
+Astrup  
+Gehin 
+Jonsson 
+Nielsen 
+Ingildsen 
+Lian 
+Aukner 
+Aukner 
+Aukner 
+Astrup  
+Holmberg 
+Westgaard 
+Westgaard 
+Wetterling 
+Grunselius 
+Bonnevier 
+Brøndbo 
+Westgaard 
+Lian 
+
+Karlsen 
+Karlsen 
+McBeath 
+Bonnevier 
+
+Mortensen 
+Mortensen 
+Lian 
+Karlsen 
+Karlsen 
+Gauffin 
+
+Mortensen 
+Holmberg 
+Bonnevier 
+
+Bjørnsen 
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+Astrup  
+
+150.00 
+42.00 
+260.00 
+62.00 
+3.00 
+55.00 
+5.00 
+115.00 
+34.00 
+
+205.00 
+70.00 
+22.00 
+1925.00 
+720.00 
+6.60 
+500.00 
+
+67.00 
+52.00 
+250.00 
+0.05 
+12.00 
+5.00 
+190.00 
+65.00 
+56.00 
+300.00 
+71.10 
+
+550.00 
+35.00 
+160.00 
+150.00 
+
+26.00 
+25.00 
+9.30 
+40.00 
+45.00 
+70.00 
+
+210.00 
+200.00 
+140.00 
+
+36.00 
+146.00 
+161.00 
+60.00 
+142.00 
+112.00 
+154.00 
+92.00 
+150.00 
+111.00 
+
+13 
+
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+NOK 
+SEK 
+NOK 
+NOK 
+NOK 
+SEK 
+DKK 
+DKK 
+USD 
+NOK 
+NOK 
+NOK 
+EUR 
+SEK 
+SEK 
+NOK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+USD 
+SEK 
+NOK 
+NOK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+USD 
+NOK 
+NOK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+NOK 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 28: Anbefalinger 
+Selskap 
+
+Sparebanken Øst 
+SSAB 
+Star Bulk 
+Stillfront Group 
+Stolt-Nielsen 
+Stora Enso 
+Storebrand 
+Storskogen 
+Storytel 
+Subsea 7 
+Surgical Science 
+Svenska Handelsbanken 
+Swedbank 
+Swedish Orphan Biovitrum 
+Systemair 
+Targovax 
+Teekay Tankers 
+Tele2 
+Telenor 
+Telia Company 
+TGS 
+The Kingfish Company 
+TietoEVRY 
+Tomra 
+Topdanmark 
+Transocean 
+Transtema 
+Trelleborg 
+Truecaller 
+Tryg 
+Ultimovacs 
+UPM 
+Valaris 
+Valmet 
+VEF 
+Veidekke 
+Vestas Wind Systems 
+Viaplay Group 
+Vicore Pharma 
+Vimian 
+Vitec 
+Vitrolife 
+Volvo 
+Volvo Cars 
+Vow 
+Vår Energi 
+Wallenius Wilhelmsen ASA 
+Wallenstam 
+Western Bulk Chartering 
+Wihlborgs 
+Wilh. Wilhelmsen Holding 
+Wärtsilä 
+Xbrane Pharma 
+XXL 
+Yara 
+Source: DNB Markets 
+
+Ticker 
+
+SPOG 
+SSABA 
+SBLK 
+SFRG 
+SNI 
+STERV FH 
+STB 
+STORB  
+STORYb 
+SUBC 
+SUS 
+SHB 
+SWEDA 
+SOBI 
+SYSR 
+TRVX 
+TNK 
+TEL2b 
+TEL 
+TELIA 
+TGS 
+KING 
+TIETO 
+TOM 
+TOP 
+RIG 
+TRANS 
+TRELB 
+TRUEB 
+TRYG 
+ULTI 
+UPM 
+VAL 
+VALMT 
+VEFAB 
+VEI 
+VWS 
+VPLAYB 
+VICO 
+VIMIAN 
+VITB 
+VITR 
+VOLVB 
+VOLCARb 
+VOW 
+VAR 
+WAWI 
+WALLb 
+WEST 
+WIHL 
+WWI 
+WRT1V 
+XBRANE 
+XXL 
+YAR 
+
+Kurs 
+
+45.50 
+68.62 
+18.64 
+21.94 
+282.50 
+11.71 
+80.24 
+12.34 
+36.76 
+116.05 
+187.90 
+86.94 
+165.95 
+235.80 
+90.00 
+0.59 
+41.73 
+104.60 
+123.10 
+26.82 
+160.80 
+9.00 
+26.80 
+170.80 
+353.00 
+5.84 
+24.10 
+259.80 
+35.40 
+159.80 
+128.00 
+29.52 
+59.47 
+29.63 
+2.21 
+101.60 
+204.75 
+245.00 
+24.00 
+33.00 
+552.50 
+234.40 
+206.60 
+37.26 
+12.28 
+27.27 
+70.00 
+36.28 
+35.00 
+78.10 
+278.00 
+10.97 
+84.10 
+2.41 
+420.10 
+
+Anbefaling 
+
+Kursmål 
+
+Analytiker 
+
+Valuta 
+
+Astrup  
+Grunselius 
+Lian 
+Arnell 
+Lian 
+Grunselius 
+Astrup  
+Bonnevier 
+Gunell 
+Karlsen 
+Andersson 
+McBeath 
+McBeath 
+Ling 
+Lindahl 
+Holom 
+Lian 
+Gauffin 
+Bjørnsen 
+Gauffin 
+Evjen 
+Aukner 
+Bjørnsen 
+Gehin 
+Astrup  
+Karlsen 
+
+Lindahl 
+Gauffin 
+Astrup  
+Holom 
+Grunselius 
+Karlsen 
+Railo 
+Gunell 
+Mortensen 
+Lindahl 
+Arnell 
+Ling 
+Ling 
+
+Ling 
+Holmberg 
+Holmberg 
+Nguyen 
+Evjen 
+Lian 
+Wetterling 
+Lian 
+Wetterling 
+Lian 
+Railo 
+
+Westgaard 
+Gehin 
+
+HOLD 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+BUY 
+BUY 
+HOLD 
+BUY 
+SELL 
+HOLD 
+HOLD 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+BUY 
+BUY 
+BUY 
+BUY 
+NO REC 
+BUY 
+HOLD 
+HOLD 
+BUY 
+BUY 
+BUY 
+SELL 
+HOLD 
+BUY 
+BUY 
+BUY 
+NO REC 
+HOLD 
+BUY 
+
+49.00 
+112.00 
+31.00 
+35.00 
+425.00 
+16.00 
+109.00 
+14.00 
+72.00 
+180.00 
+211.00 
+150.00 
+275.00 
+305.00 
+98.00 
+4.00 
+55.70 
+110.00 
+155.00 
+35.00 
+230.00 
+11.10 
+34.00 
+140.00 
+380.00 
+5.00 
+
+320.00 
+48.00 
+190.00 
+200.00 
+45.00 
+95.00 
+40.00 
+
+125.00 
+242.00 
+370.00 
+70.00 
+43.00 
+
+340.00 
+230.00 
+43.00 
+15.00 
+38.00 
+119.00 
+33.00 
+45.00 
+95.00 
+455.00 
+11.00 
+
+2.20 
+525.00 
+
+14 
+
+NOK 
+SEK 
+USD 
+SEK 
+NOK 
+EUR 
+NOK 
+SEK 
+SEK 
+NOK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+NOK 
+USD 
+SEK 
+NOK 
+SEK 
+NOK 
+NOK 
+EUR 
+NOK 
+DKK 
+USD 
+SEK 
+SEK 
+SEK 
+DKK 
+NOK 
+EUR 
+USD 
+EUR 
+SEK 
+NOK 
+DKK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+SEK 
+NOK 
+NOK 
+NOK 
+SEK 
+NOK 
+SEK 
+NOK 
+EUR 
+SEK 
+NOK 
+NOK 
+
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Figure 29: Anbefalinger 
+Selskap 
+
+YIT 
+Ørsted 
+AAK 
+Source: DNB Markets 
+
+Ticker 
+
+YIT 
+ORSTED 
+AAK 
+
+Kurs 
+
+2.23 
+652.80 
+215.00 
+
+Anbefaling 
+
+Kursmål 
+
+SELL 
+SELL 
+BUY 
+
+1.00 
+474.00 
+230.00 
+
+Analytiker 
+
+Mortensen 
+Brøndbo 
+Aas 
+
+Valuta 
+
+EUR 
+DKK 
+SEK 
+
+Disclaimer 
+
+Under følger et norsk sammendrag av DNB’s standard disclaimer. Denne er kun ment som et supplement 
+til komplett versjon lenger ned.  
+
+Generelt 
+
+Denne rapport er utarbeidet av DNB Markets, et forretningsområde i DNB Bank ASA. Rapporten baserer 
+seg på kilder som vurderes som pålitelige, men DNB Markets garanterer ikke at informasjonen er presis 
+eller fullstendig. Uttalelser i rapporten reflekterer DNB Markets’ oppfatning på det tidspunkt rapporten ble 
+utarbeidet, og DNB Markets forbeholder seg retten til å endre oppfatning uten varsel. Rapporten skal ikke 
+oppfattes  som  et  tilbud  om  å  kjøpe  eller  selge  finansielle  instrumenter  eller  som  en  anbefaling  om 
+investeringsstrategi. DNB Markets påtar seg ikke noe ansvar, verken for direkte eller indirekte tap, som 
+følge av at rapporten legges til grunn for investeringsbeslutninger.  
+
+Regler om konfidensialitet og informasjonshåndtering i DNB Bank og DNB Markets begrenser utveksling 
+av informasjon mellom ulike enheter i DNB Markets og mellom DNB Markets og enheter i DNB-konsernet. 
+Enheter i DNB-konsernet kan ha informasjon som er relevant for de forhold rapporten gjelder, men som 
+ikke har vært tilgjengelig for forfatteren av rapporten.  
+
+Distribusjon av analyser er i enkelte land regulert ved lov. Personer som mottar denne rapporten plikter å 
+gjøre seg kjent med slike forhold og ikke formidle rapporten videre til personer som er hjemmehørende i 
+land som er gjenstand for slike begrensninger. Denne rapport er kun til bruk for våre kunder og er ikke ment 
+for offentlig distribusjon. 
+
+tilgjengelig  på  vår  hjemmeside 
+Informasjon  om  DNB  Markets  Alminnelige 
+www.dnb.no/markets. DNB Markets, DNB Bank ASA (organisasjonsnummer 984 851 006), er medlem av 
+Verdipapirforetakenes  Forbund  og  er  underlagt  tilsyn  av  Finanstilsynet  i  Norge.  DNB  Markets  er  også 
+underlagt lokale tilsyn i Singapore, og i noen grad i Storbritannia og Sverige. Detaljer vedrørende omfanget 
+av lokale tilsynsreguleringer utenfor Norge er tilgjengelig på forespørsel. Ytterligere informasjon om DNB 
+Markets og DNB Bank ASA finnes på www.dnb.no.   
+
+forretningsvilkår  er 
+
+Risiko 
+Risiko ved å investere i finansielle instrumenter må generelt ansees å være høy. Historisk avkastning vil 
+ikke være noen garanti for fremtidig avkastning. Ved investering i finansielle instrumenter kan verdien på 
+investeringen bli mindre eller øke, og investor må være innforstått med at hele investeringen kan gå tapt.   
+Interessekonflikter 
+
+Vennligst se DNB Markets sin webside (dnb.no/disclaimer/MAR) for informasjon i henhold til Market Abuse 
+Regulation (MAR). Denne websiden inneholder informasjon rundt distribuerte investeringsanbefalinger og 
+potensielle interessekonflikter. 
+https://newsweb.oslobors.no/message/527351 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DNB Markets | Anbefalte aksjer 
+
+Important Information  
+This  report  has  been  prepared  by  DNB Markets,  a  division  of  DNB  Bank  ASA.  DNB Bank ASA  is  a part  of the  DNB  Group. This  report  is  based  on 
+information  obtained  from  public sources  that  DNB Markets  believes  to  be  reliable  but  which  DNB Markets  has  not independently verified,  and  DNB 
+Markets  makes  no  guarantee,  representation  or  warranty  as to  its  accuracy  or completeness.  This report  does  not,  and  does  not  attempt to, contain 
+everything material which there is to be said about the Company. Any opinions expressed herein reflect DNB Markets’ judgement at the time the report 
+was prepared and are subject to change without notice.  
+
+Any use of non-DNB logos in this report is solely for the purpose of assisting in identifying the relevant issuer. DNB is not affiliated with any such issuer. 
+
+This report is for clients only, and not for publication, and has been prepared for information purposes only by DNB Markets, a division of DNB Bank ASA. 
+
+This report is the property of DNB Markets. DNB Markets retains all intellectual property rights (including, but not limited to, copyright) relating to the report. 
+Sell-side investment firms are not allowed any commercial use (including, but not limited to, reproduction and redistribution) of the report contents, either 
+partially or in full, without DNB Markets’ explicit and prior written consent. However, buy-side investment firms may use the report when making investment 
+decisions, and may also base investment advice given to clients on the report. Such use is dependent on the buy-side investment firm citing DNB Markets 
+as the source. 
+
+Risk warning – generally high risk 
+
+The risk of investing in financial instruments is generally high. Past performance is not a reliable indicator of future performance, and estimates of future 
+performance are based on assumptions that may not be realised. When investing in financial instruments, the value of the investment may increase or 
+decrease, and the investor may lose all or part of their investment. Careful consideration of possible financial distress should be made before investing in 
+any financial instrument. 
+
+Recommendations and conflicts of interest 
+
+Readers should note that DNB Markets could be providing – or could in the coming three months or thereafter seek to provide – confidential investment 
+banking services or other services to companies mentioned in this note. 
+
+Please see DNB Markets' website (dnb.no/disclaimer/MAR) for information in accordance with Market Abuse Regulation (MAR). This website contains 
+information about our published investment recommendations and potential conflicts of interest. 
+
+Legal statement 
+
+This Report is a research report within the meaning of Regulation (EU) NO 596/2014 on market abuse (Market Abuse Regulation), and has been prepared 
+in accordance with rules set out in relevant industry standards issued by The Norwegian Securities Dealers Association. This Report has been prepared 
+as general information and is therefore not intended as a personal recommendation of particular financial instruments or strategies, and does not constitute 
+personal investment advice as defined the Norwegian securities trading act (Norwegian verdipapirhandelloven). The analyst hereby certifies that (i) the 
+views expressed in this report accurately reflect that research analyst’s personal views about the company and the securities that are the subject of this 
+report, and (ii) no part of the research analyst’s compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views 
+expressed by that research analyst in this report. DNB Markets employees, including research analysts, may receive compensation that is generated by 
+overall firm profitability. Confidentiality rules and internal rules restricting the exchange of information between different parts of DNB Markets/DNB Bank 
+ASA or the DNB Group are in place to prevent employees of DNB Markets who are preparing this report from utilizing or being aware of information 
+available in the DNB Group that may be relevant to the recipients’ decisions. DNB  Markets and the DNB Group have incorporated internal rules and 
+regulations in order to avoid any potential conflicts of interest. 
+
+The Report has been prepared by DNB Markets, a division of DNB Bank ASA, a Norwegian bank organized under the laws of the Kingdom of Norway 
+and under supervision by the Norwegian Financial Supervisory Authority, The Monetary Authority of Singapore, and on a limited basis by the Financial 
+Conduct Authority and the Prudential Regulation Authority of the UK, and the Financial Supervisory Authority of Sweden. Details about the extent of our 
+regulation by local authorities outside Norway are available from us on request.  
+
+It is issued subject to the General Business Terms for DNB Markets and information about the terms is available at www.dnb.no. For requests regarding 
+the General Business Terms of the Singapore Branch of DNB Bank ASA, please contact +65 6212 6144. Information about the DNB Group can be found 
+at www.dnb.no.  DNB Markets is a member of The Norwegian Securities Dealers Association, which has issued recommendations and market standards 
+for securities companies. The Association's Internet address where the recommendations and market standards can be found is: www.vpff.no. This report 
+is not an offer to buy or sell any security or other financial instrument or to participate in any investment strategy. No liability whatsoever is accepted for 
+any direct or indirect (including consequential) loss or expense arising from the use of this report. Distribution of research reports is in certain jurisdictions 
+restricted  by  law. Persons in  possession  of  this  report should  seek  further  guidance  regarding such restrictions  before  distributing this  report.  Please 
+contact DNB Markets at 08940 (+47 915 08940) for further information and inquiries regarding this report. 
+
+Additional information for clients in Singapore 
+
+The report has been distributed by the Singapore Branch of DNB Bank ASA. It is intended for general circulation and does not  take into account the 
+specific investment objectives, financial situation or particular needs of any particular person. You should seek advice from a financial adviser regarding 
+the suitability of any product referred to in the report, taking into account your specific financial objectives, financial situation or particular needs before 
+making a commitment to purchase any such product. You have received a copy of the report because you have been classified either as an accredited 
+investor, an expert investor or as an institutional investor, as these terms have been defined under Singapore's Financial Advisers Act (Cap. 110) ("FAA") 
+and/or the Financial Advisers Regulations ("FAR"). The Singapore Branch of DNB Bank ASA is a financial adviser exempt from licensing under the FAA 
+but is otherwise subject to the legal requirements of the FAA and of the FAR. By virtue of your status as an accredited investor or as an expert investor, 
+the Singapore Branch of DNB Bank ASA is, in respect of certain of its dealings with you or services rendered to you, exempt from having to comply with 
+certain regulatory requirements of the FAA and FAR, including without limitation, sections 25, 27 and 36 of the FAA. Section  25 of the FAA requires a 
+financial adviser to disclose material information concerning designated investment products which are recommended by the financial adviser to you as 
+the client. Section 27 of the FAA requires a financial adviser to have a reasonable basis for making investment recommendations to you as the client. 
+Section 36 of the FAA requires a financial adviser to include, within any circular or written communications in which he makes recommendations concerning 
+securities, a statement of the nature of any interest which the financial adviser (and any person connected or associated with the financial adviser) might 
+have in the securities. Please contact the Singapore branch of DNB Bank ASA at +65 6212 6144 in respect of any matters arising from, or in connection 
+
+16 
+
+ 
+  
+DNB Markets | Anbefalte aksjer 
+
+with, the report. The report is intended for and is to be circulated only to persons who are classified as an accredited investor, an expert investor or an 
+institutional investor. If you are not an accredited investor, an expert investor or an institutional investor, please contact the Singapore Branch of DNB 
+Bank ASA at +65 6212 6144. We, the DNB group, our associates, officers and/or employees may have interests in any products referred to in the report 
+by  acting  in various  roles  including  as  distributor,  holder  of  principal  positions,  adviser  or lender.  We,  the  DNB  group,  our  associates, officers  and/or 
+employees may receive fees, brokerage or commissions for acting in those capacities. In addition, we, the DNB group, our associates, officers and/or 
+employees may buy or sell products as principal or agent and may effect transactions which are not consistent with the information set out in the report.  
+
+In the United States 
+
+Each research analyst named on the front page of this research report, or at the beginning of any subsection hereof, hereby certifies that (i) the views 
+expressed in this report accurately reflect that research analyst’s personal views about the company and the securities that are the subject of this report; 
+and (ii) no part of the research analyst’s compensation was, is, or will be, directly or indirectly, related to the specific recommendations or views expressed 
+by that research analyst in this report. 
+
+The research analyst(s) named on this report are foreign research analysts as defined by FINRA Rule 1050. The only affiliate contributing to this research 
+report is DNB Bank through its DNB Markets division (“DNB Markets/DNB Bank”); the foreign research analysts employed by DNB Markets/DNB Bank 
+are named on the first page; the foreign research analysts are not registered/qualified as research analysts with FINRA; foreign research analysts are not 
+associated persons of DNB Markets, Inc. and therefore are not subject to the restrictions set forth in FINRA Rules 2241 and 2242 regarding restrictions 
+on communications with a subject company, public appearances and trading securities held by a research analyst account.  
+
+This is a Third Party Research Report as defined by FINRA Rules 2241 and 2242. Any material conflict of interest that can reasonably be expected to 
+have influenced the choice of DNB Markets/DNB Bank as a research provider or the  subject company of a DNB Markets/DNB Bank research report, 
+including the disclosures required by FINRA Rules 2241 and 2242 can be found above. 
+
+This report is being furnished solely to Major U.S. Institutional Investors within the meaning of Rule 15a-6 under the U.S. Securities Exchange Act of 1934 
+and to such other U.S. Institutional Investors as DNB Markets, Inc. may determine. Distribution to non-Major U.S. Institutional Investors will be made only 
+by DNB Markets, Inc., a separately incorporated subsidiary of DNB Bank that is a U.S. broker-dealer and a member of the Financial Industry Regulatory 
+Authority (“FINRA”) and the Securities Investor Protection Corporation (“SIPC”). 
+
+Any  U.S.  recipient  of  this  report  seeking  to  obtain  additional  information  or  to  effect  any  transaction  in  any  security  discussed  herein  or  any  related 
+instrument or investment should contact DNB Markets, Inc., 30 Hudson Yards, 81st Floor, New York, NY 10001, telephone number +1 212-551-9800. 
+
+In Canada 
+
+The Information has been distributed in reliance on the International Dealer Exemption pursuant to NI 31-103 section 8.18. Please be advised that: 1) 
+DNB Bank ASA (DNB Markets) and DNB Markets, Inc. are not registered as a dealer in the local jurisdiction to make the trade. We provide our services 
+in Canada as an exempt international dealer. 2) The jurisdiction of DNB Bank ASA (DNB Markets) and DNB Markets, Inc.'s head office is Norway. 3) 
+There may be difficulty enforcing legal rights against DNB Bank ASA (DNB Markets) and DNB Markets, Inc. because all or substantially all of their assets 
+may be situated outside of Canada. 4) The name and address of the agent for service of process for DNB Bank ASA (DNB Markets) and DNB Markets, 
+Inc. in the local jurisdiction is: Alberta: Blake, Cassels & Graydon LLP, 855 - 2nd Street S.W., Suite 3500, Bankers Hall East Tower, Calgary, AB T2P 4J8. 
+British  Columbia:  Blakes  Vancouver  Services Inc.,  595  Burrard  Street,  P.O. Box  49314,  Suite  2600,  Three  Bentall  Centre, Vancouver,  BC  V7X  1L3. 
+Manitoba: MLT Aikins, 30th Floor, Commodity Exchange Tower, 360 Main Street, Winnipeg, MB R3C 4G1. New Brunswick: Stewart McKelvey, Suite 
+1000, Brunswick House, 44 Chipman Hill, PO Box 7289, Station A, Saint John, NB E2L 2A9. Newfoundland and Labrador: Stewart McKelvey, Suite 1100, 
+Cabot Place, 100 New Gower Street, P.O. Box 5038, St. John's, NL A1C 5V3. Nova Scotia: Stewart McKelvey, Purdy's Wharf Tower One, 1959 Upper 
+Water Street, Suite 900, P.O. Box 997, Halifax, NS B3J 2X2. Northwest Territories: Field LLP, 601, 4920 52nd Street, Yellowknife, NT X1A 3T1. Nunavut: 
+Field LLP, P.O. Box 1734, House 2436, Iqaluit, NU X0A 0H0. Ontario: Blakes Extra-Provincial Services Inc., Suite 4000, 199 Bay Street, Toronto, ON 
+M5L 1A9. Prince Edward Island: Stewart McKelvey, 65 Grafton Street, Charlottetown, PE C1A 1K8. Québec: Services Blakes Québec Inc., 1 Place Ville 
+Marie, Suite 3000, Montréal, QC H3B 4N8. Saskatchewan: MLT Aikins, 1500 Hill Centre I, 1874 Scarth Street, Regina, SK S4P 4E9. Yukon: Macdonald 
+& Company, Suite 200, Financial Plaza, 204 Lambert Street, Whitehorse, YK Y1A 3T2.  
+
+In Brazil 
+
+The analyst or any close associates do not hold nor do they have any direct/indirect involvement in the acquisition, sale, or intermediation of the securities 
+discussed herein. Any financial interests, not disclosed above, that the analyst or any close associates holds in the issuer discussed in the report is limited 
+to investment funds that do not mainly invest in the issuer or industry discussed in the report and the management of which these persons cannot influence. 
+
+17 
+
+ 
+ 
+ 
+
