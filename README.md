@@ -13,7 +13,7 @@ URL: https://www.dnb.no/portalfront/portal/list/list-files.php?paths=%2Fportalfr
 ### What the scripts do
  * simple.py - easy to use demo script for downloading PDF's, extracting text and extracting structured information using ChatGPT from text
  * Main.py - fully working ETL that picks up new PDF's extracts structured information using ChatGPT from text and writes back to BigQuery
- * output.sql - a SQL script that organizes the data and joins stock tickers on to the extracted recommendations
+ * output.sql - a BigQuery SQL script that organizes the data and joins stock tickers on to the extracted recommendations
 
 
 
