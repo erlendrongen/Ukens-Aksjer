@@ -10,6 +10,13 @@ In Google Chrome, if you click ctrl+shift+j and go to network and refresh the pa
 
 URL: https://www.dnb.no/portalfront/portal/list/list-files.php?paths=%2Fportalfront%2Fnedlast%2Fno%2Fmarkets%2Fanalyser-rapporter%2Fnorske%2Fanbefalte-aksjer%2F%7Cusename%3DAnbefalte+aksjer%7Ccount%3D52
 
+### What the scripts do
+ * simple.py - easy to use demo script for downloading PDF's, extracting text and extracting structured information using ChatGPT from text
+ * Main.py - fully working ETL that picks up new PDF's extracts structured information using ChatGPT from text and writes back to database
+ * output.sql - a SQL script that organizes the data and joins stock tickers on to the extracted recommendations
+
+
+
 ### simple.py
 * Downloads past recommendation PDFs
 * Removes any PDF read-locks
@@ -30,3 +37,14 @@ This is a fully functional ETL script that automatically checks for new recommen
 * ChatGPT extracts last weeks portfolio holings
 * Stores the resulting datasets in GCS
 
+### output.sql
+This SQL will join the company names to a list of 
+
+* Checks every 1 minute for new recommendations
+* Removes any PDF read-locks
+* Extracts the text
+* Stores text in BigQuery
+* Stores the PDF ing GCS
+* ChatGPT extracts any portfolio changes
+* ChatGPT extracts last weeks portfolio holings
+* Stores the resulting datasets in GCS
