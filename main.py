@@ -1,5 +1,6 @@
 #basics1
 import os
+import sys
 import re
 import ast
 import requests
@@ -20,6 +21,7 @@ openai.api_key = OPENAI_API_KEY
 #tools
 import pikepdf
 from pdfminer.high_level import extract_text
+from functools import wraps
 
 #import pyperclip
 
@@ -53,7 +55,11 @@ TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
 CHAT_ID = str(-1001953889700)
 telegram_url = "https://api.telegram.org/bot"+TELEGRAM_TOKEN+"/sendMessage?chat_id="+CHAT_ID+"&text="
 
-response = requests.get(telegram_url+message)
+#load keys from existing reports from database to avoid adding duplicates: (in production we would use a staging table and a merge to make it waterproof)
+sql = f"""SELECT url FROM `quant-349811.alt.dnb_ukens_aksjer`"""
+df_existing_data = pd.read_gbq(sql, credentials=credentials)
+
+
 
 def download_file_to_disk(file_url, destination_dir):
     response = requests.get(file_url, stream=True)
@@ -205,6 +211,7 @@ def retry_decorator(max_retries=3, delay=5, allowed_exceptions=(Exception,)):
     return decorator
 
 # Usage
+
 @retry_decorator(max_retries=3, delay=5, allowed_exceptions=(openai.error.OpenAIError,))
 def make_openai_request(meldinger):
     return openai.ChatCompletion.create(model="gpt-4", messages=meldinger, request_timeout=60)
@@ -387,23 +394,25 @@ def generate_message(df, BASE_URL, newest_file_path, OSLO_TZ):
     
     # If dataframe is empty
     if df.empty:
-        return 'No changes in DNB Markets recommended portfolio this week.\n'
+        message = 'No changes in this weeks recommended portfolio:\n'
     
-    # Accumulate Buy and Sell messages
-    buy_messages = []
-    sell_messages = []
-    
-    for index, row in df.iterrows():
-        Selskap = row['Selskap']
-        Endring = row['Endring']
+    else:
+        # Accumulate Buy and Sell messages
+        buy_messages = []
+        sell_messages = []
         
-        if 'ut' in Endring:
-            sell_messages.append(f"Sell {Selskap}")
-        elif 'inn' in Endring:
-            buy_messages.append(f"Buy {Selskap}")
-    
-    # Combine buy and sell messages into the main message
-    message += "\n".join(sell_messages + buy_messages)
+        for index, row in df.iterrows():
+            Selskap = row['Selskap']
+            Selskap = 'Company X, (hidden for legal reasons)'  #remove this for the real company
+            Endring = row['Endring']
+            
+            if 'ut' in Endring:
+                sell_messages.append(f"Sell {Selskap}")
+            elif 'inn' in Endring:
+                buy_messages.append(f"Buy {Selskap}")
+        
+        # Combine buy and sell messages into the main message
+        message += "\n".join(sell_messages + buy_messages)
     message += f"\n\nHere is the link to the latest report \n{BASE_URL}{newest_file_path}\n"
     message += datetime.now(OSLO_TZ).strftime('%Y-%m-%d %H:%M:%S %Z%z')+"\n"
     
@@ -474,33 +483,50 @@ def main():
                 # Write the content of the text variable to the file
             #    file.write(text)
 
-            message = generate_message(df_endring, BASE_URL, newest_file_path, OSLO_TZ)
+            #df = df_endring
 
+
+
+
+            #check if we already loaded report in our database
+            if not BASE_URL + newest_file_path in df_existing_data['url'].values:
+                #generate message
+                message = generate_message(df_endring, BASE_URL, newest_file_path, OSLO_TZ)
+                #send Telegram Message
+                response = requests.get(telegram_url+message)
+
+
+                #write results to database
+                if len(df_aksjer)>0:
+                    df_aksjer['date'] = report_date
+                    append_to_bigquery(df_aksjer, 'alt.dnb_ukens_aksjer_aksjer', G_PRJ_ID)
+
+                if len(df_endring)>0:
+                    df_endring['date'] = report_date
+                    append_to_bigquery(df_endring, 'alt.dnb_ukens_aksjer_endring', G_PRJ_ID)
+
+                append_to_bigquery(create_dataframe(BASE_URL + newest_file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
+
+                print("data stored in database, ending script")
+                
+
+            else:
+                print("we have already that record in the database")    
             
-
-            #write results to database
-            if len(df_aksjer)>0:
-                df_aksjer['date'] = report_date
-                append_to_bigquery(df_aksjer, 'alt.dnb_ukens_aksjer_aksjer', G_PRJ_ID)
-
-            if len(df_endring)>0:
-                df_endring['date'] = report_date
-                append_to_bigquery(df_endring, 'alt.dnb_ukens_aksjer_endring', G_PRJ_ID)
-
-            append_to_bigquery(create_dataframe(BASE_URL + file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
-
+            sys.exit("ending the script")
         # Sleep for the interval before checking again
         print("sleeping for "+str(CHECK_INTERVAL)+" seconds")
         time.sleep(CHECK_INTERVAL)
 
 
-if __name__ == "__main__":
-    main()
+
 
 
 
 #Manual jobs
 
+
+#might need updates
 def manual_batch_full():
     # Fetch the JSON
     response = requests.get(JSON_URL)
@@ -556,7 +582,7 @@ def manual_batch_full():
         append_to_bigquery(create_dataframe(BASE_URL + file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
 
 
-
+#might need updates
 def manual_batch_txt_files_only():
     # Fetch the JSON
     response = requests.get(JSON_URL)
@@ -596,7 +622,8 @@ def manual_batch_txt_files_only():
             file.write(text)
 
 
-
+if __name__ == "__main__":
+    main()
 
 
 
