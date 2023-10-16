@@ -48,6 +48,13 @@ DOWNLOAD_DIR = "./temp/"  # current directory
 OSLO_TZ = pytz.timezone('Europe/Oslo')
 #timezone = OSLO_TZ
 
+#Telegram
+TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
+CHAT_ID = str(-1001953889700)
+telegram_url = "https://api.telegram.org/bot"+TELEGRAM_TOKEN+"/sendMessage?chat_id="+CHAT_ID+"&text="
+
+response = requests.get(telegram_url+message)
+
 def download_file_to_disk(file_url, destination_dir):
     response = requests.get(file_url, stream=True)
     file_name = os.path.basename(file_url)
@@ -138,12 +145,69 @@ def create_dataframe(URL, GCS_Path, text, load_date_local):
     return pd.DataFrame(data)
 
 def clean_json_string(s):
-    # The pattern looks for the outermost curly brackets and captures the content
-    match = re.search(r'(\{.*\})', s)
-    if match:  # If a match is found
-        return match.group(1)  # Return the captured content
+    s = s.replace('\n', '')
+    
+    matches = [match for match in re.finditer(r'[{}]', s)]
+    
+    if not matches:
+        raise ValueError("No valid JSON structure found in the string")
+    
+    # Initialize counters for open and closed brackets
+    open_brackets = 0
+    close_brackets = 0
+    
+    # Initialize positions for the start and end of the valid JSON string
+    start_pos = None
+    end_pos = None
+    
+    for match in matches:
+        if match.group() == '{':
+            open_brackets += 1
+            if start_pos is None:
+                start_pos = match.start()
+        else:
+            close_brackets += 1
+        
+        if open_brackets == close_brackets:
+            end_pos = match.end()
+            break
+    
+    if start_pos is not None and end_pos is not None:
+        return json.loads(s[start_pos:end_pos])
     else:
         raise ValueError("No valid JSON structure found in the string")
+    
+def retry_decorator(max_retries=3, delay=5, allowed_exceptions=(Exception,)):
+    """
+    Retry decorator.
+
+    :param max_retries: Maximum number of retries. Default is 3.
+    :param delay: Delay between retries in seconds. Default is 5 seconds.
+    :param allowed_exceptions: Exceptions that trigger a retry. Default is general Exception.
+    """
+    def decorator(func):
+        @wraps(func)
+        def wrapper(*args, **kwargs):
+            retries = 0
+
+            while retries < max_retries:
+                try:
+                    return func(*args, **kwargs)
+
+                except allowed_exceptions as e:
+                    retries += 1
+                    if retries >= max_retries:
+                        raise  # Re-raise the last exception if max retries exceeded
+                    print(f"Error: {e}. Retrying ({retries}/{max_retries}) in {delay} seconds...")
+                    time.sleep(delay)
+
+        return wrapper
+    return decorator
+
+# Usage
+@retry_decorator(max_retries=3, delay=5, allowed_exceptions=(openai.error.OpenAIError,))
+def make_openai_request(meldinger):
+    return openai.ChatCompletion.create(model="gpt-4", messages=meldinger, request_timeout=60)
 
 
 def get_json_from_text(text):
@@ -191,9 +255,12 @@ def get_json_from_text(text):
     meldinger.append(cr_text)
 
 
-    completion = openai.ChatCompletion.create(model="gpt-4", messages = meldinger)
+    #completion = openai.ChatCompletion.create(model="gpt-4", messages = meldinger)
+    completion = make_openai_request(meldinger)
 
     print(completion.choices[0].message.content)
+
+    #s = completion.choices[0].message.content
 
 
     #Prompt 2
@@ -228,14 +295,15 @@ def get_json_from_text(text):
     meldinger2.append(cr_text)
 
 
-    completion2 = openai.ChatCompletion.create(model="gpt-4", messages = meldinger2)
+    #completion2 = openai.ChatCompletion.create(model="gpt-4", messages = meldinger2)
+    completion2 = make_openai_request(meldinger2)
 
     print(completion2.choices[0].message.content)
 
 
     try:
-        json_obj = json.loads(clean_json_string(completion.choices[0].message.content))
-        df_aksjer = pd.DataFrame(json_obj['Aksjer'])
+        json_obj_aksjer = clean_json_string(completion.choices[0].message.content)
+        df_aksjer = pd.DataFrame(json_obj_aksjer['Aksjer'])
         
         if len(df_aksjer) > 4:
             df_aksjer.iloc[:, :2]
@@ -251,8 +319,8 @@ def get_json_from_text(text):
 
     try:
         
-        json_obj = json.loads(clean_json_string(completion2.choices[0].message.content))
-        df_endring = pd.DataFrame(json_obj['Endringer_denne_uken'])
+        json_obj_endring = clean_json_string(completion2.choices[0].message.content)
+        df_endring = pd.DataFrame(json_obj_endring['Endringer_denne_uken'])
         
         if len(df_endring) > 1:
             df_endring.iloc[:, :2]
@@ -313,13 +381,39 @@ def extract_date_from_filename(filename: str) -> datetime:
         raise ValueError(f"Unable to extract date from filename: {filename}")
 
 
-
+def generate_message(df, BASE_URL, newest_file_path, OSLO_TZ):
+    # Start with the default message
+    message = 'This weeks changes in DNB Markets recommended portfolio:\n'
+    
+    # If dataframe is empty
+    if df.empty:
+        return 'No changes in DNB Markets recommended portfolio this week.\n'
+    
+    # Accumulate Buy and Sell messages
+    buy_messages = []
+    sell_messages = []
+    
+    for index, row in df.iterrows():
+        Selskap = row['Selskap']
+        Endring = row['Endring']
+        
+        if 'ut' in Endring:
+            sell_messages.append(f"Sell {Selskap}")
+        elif 'inn' in Endring:
+            buy_messages.append(f"Buy {Selskap}")
+    
+    # Combine buy and sell messages into the main message
+    message += "\n".join(sell_messages + buy_messages)
+    message += f"\n\nHere is the link to the latest report \n{BASE_URL}{newest_file_path}\n"
+    message += datetime.now(OSLO_TZ).strftime('%Y-%m-%d %H:%M:%S %Z%z')+"\n"
+    
+    return message
 
 
 def main():
     # If it is not monday, wait til next monday 00:00 (oslo time) 
     wait_until_next_monday(OSLO_TZ)
-
+    # wait until 09:00 (oslo time)
     wait_until_9_am(OSLO_TZ)
 
     # On the first run, just mark the most recent entry as the last known entry
@@ -329,10 +423,11 @@ def main():
 
     while True:
         now = datetime.now(OSLO_TZ)
+        
 
         # End the script if it's past 19:00 in Oslo/Norway time
-        if now.hour >= 19:
-            break
+        #if now.hour >= 19:break
+            
 
         # Fetch the JSON
         response = requests.get(JSON_URL)
@@ -345,7 +440,7 @@ def main():
         newest_file_path = newest_entry["path"]
 
         
-        if last_downloaded != newest_file_path:
+        if last_downloaded != newest_file_path or 1==1:
             # Download the file
             print(BASE_URL + newest_file_path)
             local_file_path = download_file_to_disk(BASE_URL + newest_file_path, DOWNLOAD_DIR)
@@ -379,6 +474,9 @@ def main():
                 # Write the content of the text variable to the file
             #    file.write(text)
 
+            message = generate_message(df_endring, BASE_URL, newest_file_path, OSLO_TZ)
+
+            
 
             #write results to database
             if len(df_aksjer)>0:
@@ -392,6 +490,7 @@ def main():
             append_to_bigquery(create_dataframe(BASE_URL + file_path, gcs_path, text, report_date), 'alt.dnb_ukens_aksjer', G_PRJ_ID)
 
         # Sleep for the interval before checking again
+        print("sleeping for "+str(CHECK_INTERVAL)+" seconds")
         time.sleep(CHECK_INTERVAL)
 
 
@@ -399,6 +498,8 @@ if __name__ == "__main__":
     main()
 
 
+
+#Manual jobs
 
 def manual_batch_full():
     # Fetch the JSON
@@ -442,7 +543,7 @@ def manual_batch_full():
             # Write the content of the text variable to the file
         #    file.write(text)
 
-
+        
         #write results to database
         if len(df_aksjer)>0:
             df_aksjer['date'] = report_date
@@ -493,5 +594,11 @@ def manual_batch_txt_files_only():
         with open("./data/txt/"+filename+".txt", "w", encoding="utf-8") as file:
             # Write the content of the text variable to the file
             file.write(text)
+
+
+
+
+
+
 
 

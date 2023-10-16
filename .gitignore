@@ -7,5 +7,4 @@ dist/
 build/
 Data/PDFs
 .env
-.env copy
 HowToVenv.txt
