@@ -52,8 +52,8 @@ OSLO_TZ = pytz.timezone('Europe/Oslo')
 
 #Telegram
 TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN')
-CHAT_ID = str(-1001953889700)
-telegram_url = "https://api.telegram.org/bot"+TELEGRAM_TOKEN+"/sendMessage?chat_id="+CHAT_ID+"&text="
+TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID')
+telegram_url = "https://api.telegram.org/bot"+TELEGRAM_TOKEN+"/sendMessage?chat_id="+TELEGRAM_CHAT_ID+"&text="
 
 #load keys from existing reports from database to avoid adding duplicates: (in production we would use a staging table and a merge to make it waterproof)
 sql = f"""SELECT url FROM `quant-349811.alt.dnb_ukens_aksjer`"""
