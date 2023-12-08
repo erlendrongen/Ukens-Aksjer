@@ -9,3 +9,5 @@ Data/
 Data/PDFs
 .env
 HowToVenv.txt
+SentimentAnalysis.py
+ASX_Acqusitions.py
